@@ -1,0 +1,2066 @@
+municipio,entidad,total_delitos_auto,año_min,año_max,años_datos,promedio_anual,nivel_riesgo
+Ecatepec de Morelos,México,64878,2015,2021,7,9268.285714285714,Muy Alto
+Tijuana,Baja California,55095,2015,2021,7,7870.714285714285,Muy Alto
+Guadalajara,Jalisco,53027,2015,2021,7,7575.285714285715,Muy Alto
+Tlalnepantla de Baz,México,28901,2015,2021,7,4128.714285714285,Muy Alto
+Mexicali,Baja California,26636,2015,2021,7,3805.1428571428573,Muy Alto
+Puebla,Puebla,25178,2015,2021,7,3596.8571428571427,Muy Alto
+Zapopan,Jalisco,24694,2015,2021,7,3527.714285714286,Muy Alto
+Querétaro,Querétaro,24613,2015,2021,7,3516.1428571428573,Muy Alto
+Aguascalientes,Aguascalientes,20536,2015,2021,7,2933.714285714286,Muy Alto
+Toluca,México,20396,2015,2021,7,2913.714285714286,Muy Alto
+Naucalpan de Juárez,México,20387,2015,2021,7,2912.4285714285716,Muy Alto
+Iztapalapa,Ciudad de México,20102,2015,2021,7,2871.714285714286,Muy Alto
+Culiacán,Sinaloa,19294,2015,2021,7,2756.285714285714,Muy Alto
+Juárez,Chihuahua,17995,2015,2021,7,2570.714285714286,Muy Alto
+Cuautitlán Izcalli,México,17714,2015,2021,7,2530.5714285714284,Muy Alto
+Nezahualcóyotl,México,17224,2015,2021,7,2460.5714285714284,Muy Alto
+San Luis Potosí,San Luis Potosí,15919,2015,2021,7,2274.1428571428573,Muy Alto
+Gustavo A. Madero,Ciudad de México,15783,2015,2021,7,2254.714285714286,Muy Alto
+Benito Juárez,Ciudad de México,14848,2015,2021,7,2121.1428571428573,Muy Alto
+Cuernavaca,Morelos,14280,2015,2021,7,2040.0,Muy Alto
+Morelia,Michoacán de Ocampo,14182,2015,2021,7,2026.0,Muy Alto
+Ensenada,Baja California,13203,2015,2021,7,1886.142857142857,Muy Alto
+Cuauhtémoc,Ciudad de México,13039,2015,2021,7,1862.7142857142858,Muy Alto
+Chimalhuacán,México,12237,2015,2021,7,1748.142857142857,Muy Alto
+Tultitlán,México,12196,2015,2021,7,1742.2857142857142,Muy Alto
+Acapulco de Juárez,Guerrero,12041,2015,2021,7,1720.142857142857,Muy Alto
+Tecámac,México,11907,2015,2021,7,1701.0,Muy Alto
+San Pedro Tlaquepaque,Jalisco,11723,2015,2021,7,1674.7142857142858,Muy Alto
+Centro,Tabasco,11683,2015,2021,7,1669.0,Muy Alto
+Reynosa,Tamaulipas,11382,2015,2021,7,1626.0,Muy Alto
+Chihuahua,Chihuahua,10295,2015,2021,7,1470.7142857142858,Muy Alto
+Hermosillo,Sonora,10195,2015,2021,7,1456.4285714285713,Muy Alto
+Chalco,México,10013,2015,2021,7,1430.4285714285713,Muy Alto
+Coyoacán,Ciudad de México,9815,2015,2021,7,1402.142857142857,Muy Alto
+Tonalá,Jalisco,9718,2015,2021,7,1388.2857142857142,Muy Alto
+Atizapán de Zaragoza,México,9282,2015,2021,7,1326.0,Muy Alto
+Benito Juárez,Quintana Roo,9034,2015,2021,7,1290.5714285714287,Muy Alto
+Uruapan,Michoacán de Ocampo,8660,2015,2021,7,1237.142857142857,Muy Alto
+Tlalpan,Ciudad de México,8434,2015,2021,7,1204.857142857143,Muy Alto
+Veracruz,Veracruz de Ignacio de la Llave,8132,2015,2021,7,1161.7142857142858,Muy Alto
+Coacalco de Berriozábal,México,8094,2015,2021,7,1156.2857142857142,Muy Alto
+Tlajomulco de Zúñiga,Jalisco,7833,2015,2021,7,1119.0,Muy Alto
+Valle de Chalco Solidaridad,México,7756,2015,2021,7,1108.0,Muy Alto
+La Paz,México,7629,2015,2021,7,1089.857142857143,Muy Alto
+Álvaro Obregón,Ciudad de México,7402,2015,2021,7,1057.4285714285713,Muy Alto
+Azcapotzalco,Ciudad de México,7095,2015,2021,7,1013.5714285714286,Muy Alto
+León,Guanajuato,6715,2015,2021,7,959.2857142857143,Alto
+Pachuca de Soto,Hidalgo,6670,2015,2021,7,952.8571428571429,Alto
+Miguel Hidalgo,Ciudad de México,6490,2015,2021,7,927.1428571428571,Alto
+Celaya,Guanajuato,6274,2015,2021,7,896.2857142857143,Alto
+Venustiano Carranza,Ciudad de México,6206,2015,2021,7,886.5714285714286,Alto
+Xalapa,Veracruz de Ignacio de la Llave,6203,2015,2021,7,886.1428571428571,Alto
+Cajeme,Sonora,5955,2015,2021,7,850.7142857142857,Alto
+Tehuacán,Puebla,5761,2015,2021,7,823.0,Alto
+Oaxaca de Juárez,Oaxaca,5642,2015,2021,7,806.0,Alto
+Iztacalco,Ciudad de México,5591,2015,2021,7,798.7142857142857,Alto
+San Juan del Río,Querétaro,5565,2015,2021,7,795.0,Alto
+Texcoco,México,5453,2015,2021,7,779.0,Alto
+Jiutepec,Morelos,5367,2015,2021,7,766.7142857142857,Alto
+Durango,Durango,5219,2015,2021,7,745.5714285714286,Alto
+Ixtapaluca,México,5150,2015,2021,7,735.7142857142857,Alto
+Playas de Rosarito,Baja California,5037,2015,2021,7,719.5714285714286,Alto
+Coatzacoalcos,Veracruz de Ignacio de la Llave,4999,2015,2021,7,714.1428571428571,Alto
+Soledad de Graciano Sánchez,San Luis Potosí,4819,2015,2021,7,688.4285714285714,Alto
+Monterrey,Nuevo León,4710,2015,2021,7,672.8571428571429,Alto
+San Martín Texmelucan,Puebla,4672,2015,2021,7,667.4285714285714,Alto
+Zumpango,México,4604,2015,2021,7,657.7142857142857,Alto
+Cuautla,Morelos,4554,2015,2021,7,650.5714285714286,Alto
+Xochimilco,Ciudad de México,4523,2015,2021,7,646.1428571428571,Alto
+Nicolás Romero,México,4437,2015,2021,7,633.8571428571429,Alto
+Mazatlán,Sinaloa,4308,2015,2021,7,615.4285714285714,Alto
+Chilpancingo de los Bravo,Guerrero,4293,2015,2021,7,613.2857142857143,Alto
+La Paz,Baja California Sur,4269,2015,2021,7,609.8571428571429,Alto
+Cárdenas,Tabasco,4091,2015,2021,7,584.4285714285714,Alto
+Cuautitlán,México,3955,2015,2021,7,565.0,Alto
+Metepec,México,3946,2015,2021,7,563.7142857142857,Alto
+Colima,Colima,3890,2015,2021,7,555.7142857142857,Alto
+Zamora,Michoacán de Ocampo,3809,2015,2021,7,544.1428571428571,Alto
+Tuxtla Gutiérrez,Chiapas,3783,2015,2021,7,540.4285714285714,Alto
+Apatzingán,Michoacán de Ocampo,3737,2015,2021,7,533.8571428571429,Alto
+Irapuato,Guanajuato,3692,2015,2021,7,527.4285714285714,Alto
+Puerto Vallarta,Jalisco,3533,2015,2021,7,504.7142857142857,Alto
+Fresnillo,Zacatecas,3418,2015,2021,7,488.2857142857143,Medio
+Tulancingo de Bravo,Hidalgo,3409,2015,2021,7,487.0,Medio
+Chicoloapan,México,3289,2015,2021,7,469.85714285714283,Medio
+Tecate,Baja California,3254,2015,2021,7,464.85714285714283,Medio
+Nuevo Laredo,Tamaulipas,3195,2015,2021,7,456.42857142857144,Medio
+Salamanca,Guanajuato,3192,2015,2021,7,456.0,Medio
+Tláhuac,Ciudad de México,3138,2015,2021,7,448.2857142857143,Medio
+Matamoros,Tamaulipas,3137,2015,2021,7,448.14285714285717,Medio
+El Salto,Jalisco,3105,2015,2021,7,443.57142857142856,Medio
+Ahome,Sinaloa,3073,2015,2021,7,439.0,Medio
+Los Cabos,Baja California Sur,2945,2015,2021,7,420.7142857142857,Medio
+Torreón,Coahuila de Zaragoza,2935,2015,2021,7,419.2857142857143,Medio
+Córdoba,Veracruz de Ignacio de la Llave,2915,2015,2021,7,416.42857142857144,Medio
+Comalcalco,Tabasco,2913,2015,2021,7,416.14285714285717,Medio
+Guadalupe,Nuevo León,2817,2015,2021,7,402.42857142857144,Medio
+Lázaro Cárdenas,Michoacán de Ocampo,2809,2015,2021,7,401.2857142857143,Medio
+Poza Rica de Hidalgo,Veracruz de Ignacio de la Llave,2732,2015,2021,7,390.2857142857143,Medio
+Tultepec,México,2696,2015,2021,7,385.14285714285717,Medio
+Acolman,México,2627,2015,2021,7,375.2857142857143,Medio
+Zacatecas,Zacatecas,2514,2015,2021,7,359.14285714285717,Medio
+Tecamachalco,Puebla,2475,2015,2021,7,353.57142857142856,Medio
+Guadalupe,Zacatecas,2416,2015,2021,7,345.14285714285717,Medio
+Saltillo,Coahuila de Zaragoza,2344,2015,2021,7,334.85714285714283,Medio
+Tula de Allende,Hidalgo,2343,2015,2021,7,334.7142857142857,Medio
+Victoria,Tamaulipas,2323,2015,2021,7,331.85714285714283,Medio
+Corregidora,Querétaro,2320,2015,2021,7,331.42857142857144,Medio
+Gómez Palacio,Durango,2263,2015,2021,7,323.2857142857143,Medio
+El Marqués,Querétaro,2253,2015,2021,7,321.85714285714283,Medio
+San Andrés Cholula,Puebla,2242,2015,2021,7,320.2857142857143,Medio
+Lagos de Moreno,Jalisco,2188,2015,2021,7,312.57142857142856,Medio
+Solidaridad,Quintana Roo,2187,2015,2021,7,312.42857142857144,Medio
+Temixco,Morelos,2186,2015,2021,7,312.2857142857143,Medio
+San Pedro Cholula,Puebla,2160,2015,2021,7,308.57142857142856,Medio
+Tampico,Tamaulipas,2159,2015,2021,7,308.42857142857144,Medio
+Huehuetoca,México,2111,2015,2021,7,301.57142857142856,Medio
+Cunduacán,Tabasco,2095,2015,2021,7,299.2857142857143,Medio
+Tizayuca,Hidalgo,2065,2015,2021,7,295.0,Medio
+Apizaco,Tlaxcala,2058,2015,2021,7,294.0,Medio
+Lerma,México,2056,2015,2021,7,293.7142857142857,Medio
+Minatitlán,Veracruz de Ignacio de la Llave,1994,2015,2021,7,284.85714285714283,Medio
+Apodaca,Nuevo León,1989,2015,2021,7,284.14285714285717,Medio
+Tlaxcala,Tlaxcala,1899,2015,2021,7,271.2857142857143,Medio
+Cuautlancingo,Puebla,1859,2015,2021,7,265.57142857142856,Medio
+Manzanillo,Colima,1859,2015,2021,7,265.57142857142856,Medio
+Campeche,Campeche,1855,2015,2021,7,265.0,Medio
+Boca del Río,Veracruz de Ignacio de la Llave,1837,2015,2021,7,262.42857142857144,Medio
+Cosoleacaque,Veracruz de Ignacio de la Llave,1803,2015,2021,7,257.57142857142856,Medio
+Zinacantepec,México,1789,2015,2021,7,255.57142857142858,Medio
+Huixquilucan,México,1759,2015,2021,7,251.28571428571428,Medio
+Amozoc,Puebla,1757,2015,2021,7,251.0,Medio
+Zihuatanejo de Azueta,Guerrero,1742,2015,2021,7,248.85714285714286,Medio
+Nogales,Sonora,1706,2015,2021,7,243.71428571428572,Medio
+Huimanguillo,Tabasco,1679,2015,2021,7,239.85714285714286,Medio
+Iguala de la Independencia,Guerrero,1679,2015,2021,7,239.85714285714286,Medio
+Tapachula,Chiapas,1662,2015,2021,7,237.42857142857142,Medio
+Yautepec,Morelos,1659,2015,2021,7,237.0,Medio
+La Magdalena Contreras,Ciudad de México,1626,2015,2021,7,232.28571428571428,Medio
+San Luis Río Colorado,Sonora,1592,2015,2021,7,227.42857142857142,Medio
+No Especificado,Jalisco,1578,2015,2021,7,225.42857142857142,Medio
+Villa de Álvarez,Colima,1573,2015,2021,7,224.71428571428572,Medio
+Teoloyucan,México,1558,2015,2021,7,222.57142857142858,Medio
+San Cristóbal de las Casas,Chiapas,1540,2015,2021,7,220.0,Medio
+Mineral de la Reforma,Hidalgo,1537,2015,2021,7,219.57142857142858,Medio
+Tepeaca,Puebla,1531,2015,2021,7,218.71428571428572,Medio
+Othón P. Blanco,Quintana Roo,1530,2015,2021,7,218.57142857142858,Medio
+Tepatitlán de Morelos,Jalisco,1527,2015,2021,7,218.14285714285714,Medio
+Jesús María,Aguascalientes,1477,2015,2021,7,211.0,Medio
+Tepotzotlán,México,1428,2015,2021,7,204.0,Medio
+Río Bravo,Tamaulipas,1416,2015,2021,7,202.28571428571428,Medio
+Tepic,Nayarit,1397,2015,2021,7,199.57142857142858,Medio
+Navolato,Sinaloa,1375,2015,2021,7,196.42857142857142,Medio
+Tecomán,Colima,1354,2015,2021,7,193.42857142857142,Medio
+Emiliano Zapata,Morelos,1349,2015,2021,7,192.71428571428572,Medio
+Delicias,Chihuahua,1328,2015,2021,7,189.71428571428572,Medio
+Zitácuaro,Michoacán de Ocampo,1315,2015,2021,7,187.85714285714286,Medio
+Guasave,Sinaloa,1298,2015,2021,7,185.42857142857142,Medio
+San Nicolás de los Garza,Nuevo León,1293,2015,2021,7,184.71428571428572,Medio
+Teotihuacán,México,1279,2015,2021,7,182.71428571428572,Medio
+Otros Municipios,Oaxaca,1091,2015,2020,6,181.83333333333334,Medio
+Atlixco,Puebla,1269,2015,2021,7,181.28571428571428,Medio
+Orizaba,Veracruz de Ignacio de la Llave,1257,2015,2021,7,179.57142857142858,Medio
+Acayucan,Veracruz de Ignacio de la Llave,1255,2015,2021,7,179.28571428571428,Medio
+Almoloya de Juárez,México,1247,2015,2021,7,178.14285714285714,Medio
+Altamira,Tamaulipas,1240,2015,2021,7,177.14285714285714,Medio
+Ciudad Madero,Tamaulipas,1233,2015,2021,7,176.14285714285714,Medio
+Sahuayo,Michoacán de Ocampo,1219,2015,2021,7,174.14285714285714,Medio
+Tepeapulco,Hidalgo,1199,2015,2021,7,171.28571428571428,Medio
+Heroica Ciudad de Juchitán de Zaragoza,Oaxaca,1169,2015,2021,7,167.0,Medio
+Ixmiquilpan,Hidalgo,1159,2015,2021,7,165.57142857142858,Medio
+Huejotzingo,Puebla,1153,2015,2021,7,164.71428571428572,Medio
+Xochitepec,Morelos,1130,2015,2021,7,161.42857142857142,Medio
+Apaseo el Grande,Guanajuato,1116,2015,2021,7,159.42857142857142,Medio
+Juárez,Nuevo León,1110,2015,2021,7,158.57142857142858,Medio
+Nacajuca,Tabasco,1105,2015,2021,7,157.85714285714286,Medio
+Cozumel,Quintana Roo,1101,2015,2021,7,157.28571428571428,Medio
+Atlacomulco,México,1097,2015,2021,7,156.71428571428572,Medio
+Paraíso,Tabasco,1076,2015,2021,7,153.71428571428572,Medio
+San Mateo Atenco,México,1074,2015,2021,7,153.42857142857142,Medio
+Papantla,Veracruz de Ignacio de la Llave,1063,2015,2021,7,151.85714285714286,Medio
+Macuspana,Tabasco,1060,2015,2021,7,151.42857142857142,Medio
+Navojoa,Sonora,1053,2015,2021,7,150.42857142857142,Medio
+Fortín,Veracruz de Ignacio de la Llave,1050,2015,2021,7,150.0,Medio
+Actopan,Hidalgo,1043,2015,2021,7,149.0,Medio
+Silao de la Victoria,Guanajuato,1035,2015,2021,7,147.85714285714286,Medio
+Tierra Blanca,Veracruz de Ignacio de la Llave,1024,2015,2021,7,146.28571428571428,Medio
+Tuxpan,Veracruz de Ignacio de la Llave,1014,2015,2021,7,144.85714285714286,Medio
+San Juan Bautista Tuxtepec,Oaxaca,1001,2015,2021,7,143.0,Medio
+Santa Cruz Xoxocotlán,Oaxaca,858,2016,2021,6,143.0,Medio
+Carmen,Campeche,999,2015,2021,7,142.71428571428572,Medio
+Nextlalpan,México,977,2015,2021,7,139.57142857142858,Medio
+Acatzingo,Puebla,975,2015,2021,7,139.28571428571428,Medio
+Zapotlanejo,Jalisco,972,2015,2021,7,138.85714285714286,Medio
+Heroica Ciudad de Huajuapan de León,Oaxaca,971,2015,2021,7,138.71428571428572,Medio
+Calpulalpan,Tlaxcala,921,2015,2021,7,131.57142857142858,Medio
+Mérida,Yucatán,921,2015,2021,7,131.57142857142858,Medio
+Chiautempan,Tlaxcala,915,2015,2021,7,130.71428571428572,Medio
+Zapotlán el Grande,Jalisco,911,2015,2021,7,130.14285714285714,Medio
+Cuajimalpa de Morelos,Ciudad de México,910,2015,2021,7,130.0,Medio
+Jalpa de Méndez,Tabasco,894,2015,2021,7,127.71428571428571,Medio
+Palmar de Bravo,Puebla,891,2015,2021,7,127.28571428571429,Medio
+La Piedad,Michoacán de Ocampo,884,2015,2021,7,126.28571428571429,Medio
+Comitán de Domínguez,Chiapas,879,2015,2021,7,125.57142857142857,Medio
+Múgica,Michoacán de Ocampo,876,2015,2021,7,125.14285714285714,Medio
+Huamantla,Tlaxcala,861,2015,2021,7,123.0,Medio
+Cortazar,Guanajuato,856,2015,2021,7,122.28571428571429,Medio
+Jacona,Michoacán de Ocampo,842,2015,2021,7,120.28571428571429,Medio
+Izúcar de Matamoros,Puebla,837,2015,2021,7,119.57142857142857,Medio
+Jilotepec,México,828,2015,2021,7,118.28571428571429,Medio
+General Escobedo,Nuevo León,808,2015,2021,7,115.42857142857143,Medio
+Tenancingo,México,802,2015,2021,7,114.57142857142857,Medio
+Tianguistenco,México,799,2015,2021,7,114.14285714285714,Medio
+Melchor Ocampo,México,788,2015,2021,7,112.57142857142857,Medio
+Huitzilac,Morelos,781,2015,2021,7,111.57142857142857,Medio
+Santa Catarina,Nuevo León,780,2015,2021,7,111.42857142857143,Medio
+Ixtlahuaca,México,769,2015,2021,7,109.85714285714286,Medio
+Tepeji del Río de Ocampo,Hidalgo,767,2015,2021,7,109.57142857142857,Medio
+Santa Lucía del Camino,Oaxaca,657,2016,2021,6,109.5,Medio
+San Pablo del Monte,Tlaxcala,765,2015,2021,7,109.28571428571429,Medio
+Tala,Jalisco,762,2015,2021,7,108.85714285714286,Medio
+Ocotlán,Jalisco,755,2015,2021,7,107.85714285714286,Medio
+Matehuala,San Luis Potosí,755,2015,2021,7,107.85714285714286,Medio
+Pedro Escobedo,Querétaro,738,2015,2021,7,105.42857142857143,Medio
+Chignahuapan,Puebla,737,2015,2021,7,105.28571428571429,Medio
+Guaymas,Sonora,731,2015,2021,7,104.42857142857143,Medio
+San Miguel de Allende,Guanajuato,720,2015,2021,7,102.85714285714286,Medio
+Huauchinango,Puebla,716,2015,2021,7,102.28571428571429,Medio
+Milpa Alta,Ciudad de México,708,2015,2021,7,101.14285714285714,Medio
+Tezoyuca,México,704,2015,2021,7,100.57142857142857,Medio
+Hidalgo,Michoacán de Ocampo,701,2015,2021,7,100.14285714285714,Medio
+Guanajuato,Guanajuato,701,2015,2021,7,100.14285714285714,Medio
+Atenco,México,697,2015,2021,7,99.57142857142857,Bajo
+Mixquiahuala de Juárez,Hidalgo,693,2015,2021,7,99.0,Bajo
+Perote,Veracruz de Ignacio de la Llave,693,2015,2021,7,99.0,Bajo
+Monclova,Coahuila de Zaragoza,690,2015,2021,7,98.57142857142857,Bajo
+Otumba,México,685,2015,2021,7,97.85714285714286,Bajo
+Hidalgo del Parral,Chihuahua,680,2015,2021,7,97.14285714285714,Bajo
+Tlapa de Comonfort,Guerrero,678,2015,2021,7,96.85714285714286,Bajo
+Zacatlán,Puebla,674,2015,2021,7,96.28571428571429,Bajo
+Villagrán,Guanajuato,672,2015,2021,7,96.0,Bajo
+Axapusco,México,672,2015,2021,7,96.0,Bajo
+Ocoyoacac,México,657,2015,2021,7,93.85714285714286,Bajo
+Chiconcuac,México,654,2015,2021,7,93.42857142857143,Bajo
+García,Nuevo León,654,2015,2021,7,93.42857142857143,Bajo
+Jojutla,Morelos,653,2015,2021,7,93.28571428571429,Bajo
+Salvatierra,Guanajuato,650,2015,2021,7,92.85714285714286,Bajo
+Bahía de Banderas,Nayarit,645,2015,2021,7,92.14285714285714,Bajo
+Cuauhtémoc,Chihuahua,641,2015,2021,7,91.57142857142857,Bajo
+Pátzcuaro,Michoacán de Ocampo,634,2015,2021,7,90.57142857142857,Bajo
+Arandas,Jalisco,617,2015,2021,7,88.14285714285714,Bajo
+Tlacotepec de Benito Juárez,Puebla,614,2015,2021,7,87.71428571428571,Bajo
+Xonacatlán,México,612,2015,2021,7,87.42857142857143,Bajo
+Acajete,Puebla,608,2015,2021,7,86.85714285714286,Bajo
+Coatepec,Veracruz de Ignacio de la Llave,602,2015,2021,7,86.0,Bajo
+Salina Cruz,Oaxaca,596,2015,2021,7,85.14285714285714,Bajo
+Jerez,Zacatecas,593,2015,2021,7,84.71428571428571,Bajo
+Tequisquiapan,Querétaro,588,2015,2021,7,84.0,Bajo
+Tenango del Valle,México,588,2015,2021,7,84.0,Bajo
+Cañada Morelos,Puebla,583,2015,2021,7,83.28571428571429,Bajo
+San Francisco de los Romo,Aguascalientes,582,2015,2021,7,83.14285714285714,Bajo
+San Juan de los Lagos,Jalisco,582,2015,2021,7,83.14285714285714,Bajo
+Amecameca,México,577,2015,2021,7,82.42857142857143,Bajo
+Coyotepec,México,570,2015,2021,7,81.42857142857143,Bajo
+Martínez de la Torre,Veracruz de Ignacio de la Llave,565,2015,2021,7,80.71428571428571,Bajo
+Salvador Alvarado,Sinaloa,564,2015,2021,7,80.57142857142857,Bajo
+Jaltenco,México,563,2015,2021,7,80.42857142857143,Bajo
+Esperanza,Puebla,559,2015,2021,7,79.85714285714286,Bajo
+Valle de Santiago,Guanajuato,559,2015,2021,7,79.85714285714286,Bajo
+Apan,Hidalgo,552,2015,2021,7,78.85714285714286,Bajo
+Camerino Z. Mendoza,Veracruz de Ignacio de la Llave,549,2015,2021,7,78.42857142857143,Bajo
+Cadereyta Jiménez,Nuevo León,545,2015,2021,7,77.85714285714286,Bajo
+Palenque,Chiapas,545,2015,2021,7,77.85714285714286,Bajo
+El Mante,Tamaulipas,543,2015,2021,7,77.57142857142857,Bajo
+Reforma,Chiapas,539,2015,2021,7,77.0,Bajo
+Coronango,Puebla,539,2015,2021,7,77.0,Bajo
+Álamo Temapache,Veracruz de Ignacio de la Llave,528,2015,2021,7,75.42857142857143,Bajo
+Calera,Zacatecas,522,2015,2021,7,74.57142857142857,Bajo
+Tlaxcoapan,Hidalgo,516,2015,2021,7,73.71428571428571,Bajo
+Temoaya,México,510,2015,2021,7,72.85714285714286,Bajo
+Rincón de Romos,Aguascalientes,507,2015,2021,7,72.42857142857143,Bajo
+Pénjamo,Guanajuato,506,2015,2021,7,72.28571428571429,Bajo
+Las Choapas,Veracruz de Ignacio de la Llave,505,2015,2021,7,72.14285714285714,Bajo
+Tihuatlán,Veracruz de Ignacio de la Llave,504,2015,2021,7,72.0,Bajo
+Pánuco,Veracruz de Ignacio de la Llave,502,2015,2021,7,71.71428571428571,Bajo
+Lerdo,Durango,496,2015,2021,7,70.85714285714286,Bajo
+Chalchicomula de Sesma,Puebla,487,2015,2021,7,69.57142857142857,Bajo
+Valle de Bravo,México,486,2015,2021,7,69.42857142857143,Bajo
+San Martín de las Pirámides,México,482,2015,2021,7,68.85714285714286,Bajo
+Chapala,Jalisco,481,2015,2021,7,68.71428571428571,Bajo
+San Fernando,Tamaulipas,476,2015,2021,7,68.0,Bajo
+Comondú,Baja California Sur,469,2015,2021,7,67.0,Bajo
+Yecapixtla,Morelos,464,2015,2021,7,66.28571428571429,Bajo
+Tarímbaro,Michoacán de Ocampo,462,2015,2021,7,66.0,Bajo
+Ocosingo,Chiapas,460,2015,2021,7,65.71428571428571,Bajo
+Calimaya,México,458,2015,2021,7,65.42857142857143,Bajo
+Chiapa de Corzo,Chiapas,456,2015,2021,7,65.14285714285714,Bajo
+Apaseo el Alto,Guanajuato,455,2015,2021,7,65.0,Bajo
+San Quintín,Baja California,65,2021,2021,1,65.0,Bajo
+Ayala,Morelos,452,2015,2021,7,64.57142857142857,Bajo
+Mocorito,Sinaloa,450,2015,2021,7,64.28571428571429,Bajo
+San Salvador Huixcolotla,Puebla,449,2015,2021,7,64.14285714285714,Bajo
+San Andrés Tuxtla,Veracruz de Ignacio de la Llave,446,2015,2021,7,63.714285714285715,Bajo
+Escuinapa,Sinaloa,446,2015,2021,7,63.714285714285715,Bajo
+Taxco de Alarcón,Guerrero,445,2015,2021,7,63.57142857142857,Bajo
+Puente de Ixtla,Morelos,443,2015,2021,7,63.285714285714285,Bajo
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,443,2015,2021,7,63.285714285714285,Bajo
+Buenavista,Michoacán de Ocampo,439,2015,2021,7,62.714285714285715,Bajo
+Huixtla,Chiapas,437,2015,2021,7,62.42857142857143,Bajo
+Zempoala,Hidalgo,435,2015,2021,7,62.142857142857146,Bajo
+Tulum,Quintana Roo,431,2015,2021,7,61.57142857142857,Bajo
+San José Iturbide,Guanajuato,429,2015,2021,7,61.285714285714285,Bajo
+Los Reyes,Michoacán de Ocampo,429,2015,2021,7,61.285714285714285,Bajo
+Caborca,Sonora,428,2015,2021,7,61.142857142857146,Bajo
+Santa Cruz de Juventino Rosas,Guanajuato,424,2015,2021,7,60.57142857142857,Bajo
+Zacatelco,Tlaxcala,422,2015,2021,7,60.285714285714285,Bajo
+Agua Dulce,Veracruz de Ignacio de la Llave,420,2015,2021,7,60.0,Bajo
+Quecholac,Puebla,418,2015,2021,7,59.714285714285715,Bajo
+Santo Domingo Tehuantepec,Oaxaca,416,2015,2021,7,59.42857142857143,Bajo
+La Antigua,Veracruz de Ignacio de la Llave,415,2015,2021,7,59.285714285714285,Bajo
+Ameca,Jalisco,412,2015,2021,7,58.857142857142854,Bajo
+San Luis de la Paz,Guanajuato,411,2015,2021,7,58.714285714285715,Bajo
+Yehualtepec,Puebla,411,2015,2021,7,58.714285714285715,Bajo
+Elota,Sinaloa,410,2015,2021,7,58.57142857142857,Bajo
+Tangancícuaro,Michoacán de Ocampo,406,2015,2021,7,58.0,Bajo
+Ciudad Valles,San Luis Potosí,404,2015,2021,7,57.714285714285715,Bajo
+Tacámbaro,Michoacán de Ocampo,403,2015,2021,7,57.57142857142857,Bajo
+Medellín de Bravo,Veracruz de Ignacio de la Llave,401,2015,2021,7,57.285714285714285,Bajo
+Otzolotepec,México,401,2015,2021,7,57.285714285714285,Bajo
+Tepoztlán,Morelos,399,2015,2021,7,57.0,Bajo
+Teziutlán,Puebla,394,2015,2021,7,56.285714285714285,Bajo
+Huichapan,Hidalgo,394,2015,2021,7,56.285714285714285,Bajo
+Libres,Puebla,394,2015,2021,7,56.285714285714285,Bajo
+Autlán de Navarro,Jalisco,391,2015,2021,7,55.857142857142854,Bajo
+Ezequiel Montes,Querétaro,391,2015,2021,7,55.857142857142854,Bajo
+Nopaltepec,México,389,2015,2021,7,55.57142857142857,Bajo
+Capulhuac,México,386,2015,2021,7,55.142857142857146,Bajo
+Cosamaloapan de Carpio,Veracruz de Ignacio de la Llave,386,2015,2021,7,55.142857142857146,Bajo
+Cuitláhuac,Veracruz de Ignacio de la Llave,384,2015,2021,7,54.857142857142854,Bajo
+Río Grande,Zacatecas,383,2015,2021,7,54.714285714285715,Bajo
+Calvillo,Aguascalientes,383,2015,2021,7,54.714285714285715,Bajo
+Chiautla,México,381,2015,2021,7,54.42857142857143,Bajo
+Gabriel Zamora,Michoacán de Ocampo,380,2015,2021,7,54.285714285714285,Bajo
+Atitalaquia,Hidalgo,375,2015,2021,7,53.57142857142857,Bajo
+Eduardo Neri,Guerrero,373,2015,2021,7,53.285714285714285,Bajo
+Amealco de Bonfil,Querétaro,372,2015,2021,7,53.142857142857146,Bajo
+Temascalapa,México,371,2015,2021,7,53.0,Bajo
+Mapastepec,Chiapas,370,2015,2021,7,52.857142857142854,Bajo
+Villa Guerrero,México,368,2015,2021,7,52.57142857142857,Bajo
+Tonalá,Chiapas,367,2015,2021,7,52.42857142857143,Bajo
+Rosario,Sinaloa,361,2015,2021,7,51.57142857142857,Bajo
+San Pedro Mixtepec Distrito 22,Oaxaca,359,2015,2021,7,51.285714285714285,Bajo
+Emiliano Zapata,Veracruz de Ignacio de la Llave,307,2016,2021,6,51.166666666666664,Bajo
+Pabellón de Arteaga,Aguascalientes,357,2015,2021,7,51.0,Bajo
+La Unión de Isidoro Montes de Oca,Guerrero,355,2015,2021,7,50.714285714285715,Bajo
+Ixtapan de la Sal,México,354,2015,2021,7,50.57142857142857,Bajo
+Cintalapa,Chiapas,346,2015,2021,7,49.42857142857143,Bajo
+Ojocaliente,Zacatecas,345,2015,2021,7,49.285714285714285,Bajo
+Acambay de Ruíz Castañeda,México,342,2015,2021,7,48.857142857142854,Bajo
+Angostura,Sinaloa,342,2015,2021,7,48.857142857142854,Bajo
+Huatabampo,Sonora,339,2015,2021,7,48.42857142857143,Bajo
+Tlalmanalco,México,338,2015,2021,7,48.285714285714285,Bajo
+Tezontepec de Aldama,Hidalgo,338,2015,2021,7,48.285714285714285,Bajo
+Ario,Michoacán de Ocampo,338,2015,2021,7,48.285714285714285,Bajo
+Atotonilco de Tula,Hidalgo,337,2015,2021,7,48.142857142857146,Bajo
+Maravatío,Michoacán de Ocampo,335,2015,2021,7,47.857142857142854,Bajo
+Loreto,Zacatecas,333,2015,2021,7,47.57142857142857,Bajo
+San Francisco del Rincón,Guanajuato,330,2015,2021,7,47.142857142857146,Bajo
+Puruándiro,Michoacán de Ocampo,327,2015,2021,7,46.714285714285715,Bajo
+Atotonilco el Alto,Jalisco,327,2015,2021,7,46.714285714285715,Bajo
+Tejupilco,México,326,2015,2021,7,46.57142857142857,Bajo
+Zacapu,Michoacán de Ocampo,325,2015,2021,7,46.42857142857143,Bajo
+Comonfort,Guanajuato,322,2015,2021,7,46.0,Bajo
+San Antonio la Isla,México,318,2015,2021,7,45.42857142857143,Bajo
+Nicolás Bravo,Puebla,318,2015,2021,7,45.42857142857143,Bajo
+San Salvador el Verde,Puebla,317,2015,2021,7,45.285714285714285,Bajo
+Montemorelos,Nuevo León,315,2015,2021,7,45.0,Bajo
+Villaflores,Chiapas,315,2015,2021,7,45.0,Bajo
+Puerto Peñasco,Sonora,314,2015,2021,7,44.857142857142854,Bajo
+Yauhquemehcan,Tlaxcala,311,2015,2021,7,44.42857142857143,Bajo
+Ometepec,Guerrero,310,2015,2021,7,44.285714285714285,Bajo
+Empalme,Sonora,309,2015,2021,7,44.142857142857146,Bajo
+Rioverde,San Luis Potosí,307,2015,2021,7,43.857142857142854,Bajo
+Tlacolula de Matamoros,Oaxaca,175,2018,2021,4,43.75,Bajo
+Chilapa de Álvarez,Guerrero,303,2015,2021,7,43.285714285714285,Bajo
+Pungarabato,Guerrero,301,2015,2021,7,43.0,Bajo
+Encarnación de Díaz,Jalisco,299,2015,2021,7,42.714285714285715,Bajo
+Ixtlahuacán de los Membrillos,Jalisco,299,2015,2021,7,42.714285714285715,Bajo
+Isla,Veracruz de Ignacio de la Llave,298,2015,2021,7,42.57142857142857,Bajo
+Parácuaro,Michoacán de Ocampo,297,2015,2021,7,42.42857142857143,Bajo
+La Barca,Jalisco,297,2015,2021,7,42.42857142857143,Bajo
+Abasolo,Guanajuato,294,2015,2021,7,42.0,Bajo
+Yuriria,Guanajuato,294,2015,2021,7,42.0,Bajo
+Piedras Negras,Coahuila de Zaragoza,294,2015,2021,7,42.0,Bajo
+Valle Hermoso,Tamaulipas,293,2015,2021,7,41.857142857142854,Bajo
+Ziracuaretiro,Michoacán de Ocampo,292,2015,2021,7,41.714285714285715,Bajo
+Tarimoro,Guanajuato,291,2015,2021,7,41.57142857142857,Bajo
+Matías Romero Avendaño,Oaxaca,290,2015,2021,7,41.42857142857143,Bajo
+El Fuerte,Sinaloa,289,2015,2021,7,41.285714285714285,Bajo
+Tlaltizapán de Zapata,Morelos,288,2015,2021,7,41.142857142857146,Bajo
+Apaxco,México,287,2015,2021,7,41.0,Bajo
+Ixtacuixtla de Mariano Matamoros,Tlaxcala,286,2015,2021,7,40.857142857142854,Bajo
+Centla,Tabasco,286,2015,2021,7,40.857142857142854,Bajo
+El Arenal,Jalisco,284,2015,2021,7,40.57142857142857,Bajo
+Salvador Escalante,Michoacán de Ocampo,283,2015,2021,7,40.42857142857143,Bajo
+Ixtaczoquitlán,Veracruz de Ignacio de la Llave,280,2015,2021,7,40.0,Bajo
+Los Reyes de Juárez,Puebla,277,2015,2021,7,39.57142857142857,Bajo
+Miahuatlán de Porfirio Díaz,Oaxaca,235,2016,2021,6,39.166666666666664,Bajo
+Zacatepec,Morelos,274,2015,2021,7,39.142857142857146,Bajo
+Nogales,Veracruz de Ignacio de la Llave,272,2015,2021,7,38.857142857142854,Bajo
+Colón,Querétaro,271,2015,2021,7,38.714285714285715,Bajo
+Sayula de Alemán,Veracruz de Ignacio de la Llave,270,2015,2021,7,38.57142857142857,Bajo
+Pinos,Zacatecas,270,2015,2021,7,38.57142857142857,Bajo
+Nanchital de Lázaro Cárdenas del Río,Veracruz de Ignacio de la Llave,270,2015,2021,7,38.57142857142857,Bajo
+Tequila,Jalisco,269,2015,2021,7,38.42857142857143,Bajo
+Teapa,Tabasco,268,2015,2021,7,38.285714285714285,Bajo
+Villa de Zaachila,Oaxaca,229,2016,2021,6,38.166666666666664,Bajo
+Polotitlán,México,266,2015,2021,7,38.0,Bajo
+Jocotitlán,México,265,2015,2021,7,37.857142857142854,Bajo
+Tlahuapan,Puebla,264,2015,2021,7,37.714285714285715,Bajo
+Ocotlán de Morelos,Oaxaca,225,2016,2021,6,37.5,Bajo
+Tecali de Herrera,Puebla,262,2015,2021,7,37.42857142857143,Bajo
+San Pedro Pochutla,Oaxaca,262,2015,2021,7,37.42857142857143,Bajo
+Río Blanco,Veracruz de Ignacio de la Llave,261,2015,2021,7,37.285714285714285,Bajo
+Huejutla de Reyes,Hidalgo,260,2015,2021,7,37.142857142857146,Bajo
+No Especificado,Ciudad de México,259,2015,2021,7,37.0,Bajo
+Ocozocoautla de Espinosa,Chiapas,259,2015,2021,7,37.0,Bajo
+Chilchota,Michoacán de Ocampo,258,2015,2021,7,36.857142857142854,Bajo
+San Felipe del Progreso,México,257,2015,2021,7,36.714285714285715,Bajo
+Tres Valles,Veracruz de Ignacio de la Llave,257,2015,2021,7,36.714285714285715,Bajo
+Magdalena,Sonora,256,2015,2021,7,36.57142857142857,Bajo
+Acámbaro,Guanajuato,256,2015,2021,7,36.57142857142857,Bajo
+Papalotla de Xicohténcatl,Tlaxcala,256,2015,2021,7,36.57142857142857,Bajo
+Santa María Huatulco,Oaxaca,256,2015,2021,7,36.57142857142857,Bajo
+Oriental,Puebla,255,2015,2021,7,36.42857142857143,Bajo
+Tonanitla,México,253,2015,2021,7,36.142857142857146,Bajo
+Tlaxco,Tlaxcala,253,2015,2021,7,36.142857142857146,Bajo
+Amatlán de los Reyes,Veracruz de Ignacio de la Llave,252,2015,2021,7,36.0,Bajo
+Tezonapa,Veracruz de Ignacio de la Llave,251,2015,2021,7,35.857142857142854,Bajo
+Cocula,Jalisco,250,2015,2021,7,35.714285714285715,Bajo
+Axochiapan,Morelos,248,2015,2021,7,35.42857142857143,Bajo
+Cocotitlán,México,248,2015,2021,7,35.42857142857143,Bajo
+Cuautepec de Hinojosa,Hidalgo,247,2015,2021,7,35.285714285714285,Bajo
+Santa María Atzompa,Oaxaca,207,2016,2021,6,34.5,Bajo
+Santiago Pinotepa Nacional,Oaxaca,241,2015,2021,7,34.42857142857143,Bajo
+Apetatitlán de Antonio Carvajal,Tlaxcala,240,2015,2021,7,34.285714285714285,Bajo
+Natívitas,Tlaxcala,240,2015,2021,7,34.285714285714285,Bajo
+Agua Prieta,Sonora,239,2015,2021,7,34.142857142857146,Bajo
+Ramos Arizpe,Coahuila de Zaragoza,238,2015,2021,7,34.0,Bajo
+Altotonga,Veracruz de Ignacio de la Llave,238,2015,2021,7,34.0,Bajo
+Escárcega,Campeche,236,2015,2021,7,33.714285714285715,Bajo
+Jalapa,Tabasco,236,2015,2021,7,33.714285714285715,Bajo
+Xicotepec,Puebla,236,2015,2021,7,33.714285714285715,Bajo
+Acatlán de Juárez,Jalisco,236,2015,2021,7,33.714285714285715,Bajo
+Suchiate,Chiapas,236,2015,2021,7,33.714285714285715,Bajo
+Santiago Tulantepec de Lugo Guerrero,Hidalgo,234,2015,2021,7,33.42857142857143,Bajo
+Pesquería,Nuevo León,233,2015,2021,7,33.285714285714285,Bajo
+San Salvador el Seco,Puebla,233,2015,2021,7,33.285714285714285,Bajo
+Nopalucan,Puebla,232,2015,2021,7,33.142857142857146,Bajo
+Arteaga,Michoacán de Ocampo,230,2015,2021,7,32.857142857142854,Bajo
+Cadereyta de Montes,Querétaro,226,2015,2021,7,32.285714285714285,Bajo
+Aculco,México,226,2015,2021,7,32.285714285714285,Bajo
+Tepetlaoxtoc,México,225,2015,2021,7,32.142857142857146,Bajo
+Villa Victoria,México,225,2015,2021,7,32.142857142857146,Bajo
+Mexquitic de Carmona,San Luis Potosí,223,2015,2021,7,31.857142857142858,Bajo
+Arriaga,Chiapas,222,2015,2021,7,31.714285714285715,Bajo
+Coyuca de Benítez,Guerrero,222,2015,2021,7,31.714285714285715,Bajo
+Tochtepec,Puebla,220,2015,2021,7,31.428571428571427,Bajo
+Jalostotitlán,Jalisco,219,2015,2021,7,31.285714285714285,Bajo
+Sombrerete,Zacatecas,216,2015,2021,7,30.857142857142858,Bajo
+Jantetelco,Morelos,215,2015,2021,7,30.714285714285715,Bajo
+Santiago Ixcuintla,Nayarit,213,2015,2021,7,30.428571428571427,Bajo
+Progreso de Obregón,Hidalgo,213,2015,2021,7,30.428571428571427,Bajo
+San Sebastián Tutla,Oaxaca,152,2017,2021,5,30.4,Bajo
+Zinapécuaro,Michoacán de Ocampo,212,2015,2021,7,30.285714285714285,Bajo
+Jáltipan,Veracruz de Ignacio de la Llave,212,2015,2021,7,30.285714285714285,Bajo
+Atoyac de Álvarez,Guerrero,211,2015,2021,7,30.142857142857142,Bajo
+Técpan de Galeana,Guerrero,211,2015,2021,7,30.142857142857142,Bajo
+Xalatlaco,México,210,2015,2021,7,30.0,Bajo
+Benito Juárez,Sonora,209,2015,2021,7,29.857142857142858,Bajo
+Heroica Ciudad de Tlaxiaco,Oaxaca,209,2015,2021,7,29.857142857142858,Bajo
+Tequixquiac,México,209,2015,2021,7,29.857142857142858,Bajo
+San Felipe,Guanajuato,209,2015,2021,7,29.857142857142858,Bajo
+Huatusco,Veracruz de Ignacio de la Llave,207,2015,2021,7,29.571428571428573,Bajo
+Singuilucan,Hidalgo,206,2015,2021,7,29.428571428571427,Bajo
+San Pedro Garza García,Nuevo León,206,2015,2021,7,29.428571428571427,Bajo
+Miguel Alemán,Tamaulipas,205,2015,2021,7,29.285714285714285,Bajo
+Guadalupe Victoria,Puebla,205,2015,2021,7,29.285714285714285,Bajo
+Tenosique,Tabasco,204,2015,2021,7,29.142857142857142,Bajo
+Acaxochitlán,Hidalgo,202,2015,2021,7,28.857142857142858,Bajo
+Kanasín,Yucatán,202,2015,2021,7,28.857142857142858,Bajo
+Temascalcingo,México,201,2015,2021,7,28.714285714285715,Bajo
+Cuapiaxtla de Madero,Puebla,200,2015,2021,7,28.571428571428573,Bajo
+Tepeyahualco,Puebla,200,2015,2021,7,28.571428571428573,Bajo
+Villa Comaltitlán,Chiapas,196,2015,2021,7,28.0,Bajo
+Tlaltenango de Sánchez Román,Zacatecas,195,2015,2021,7,27.857142857142858,Bajo
+Cuitzeo,Michoacán de Ocampo,194,2015,2021,7,27.714285714285715,Bajo
+Frontera,Coahuila de Zaragoza,193,2015,2021,7,27.571428571428573,Bajo
+Linares,Nuevo León,193,2015,2021,7,27.571428571428573,Bajo
+Tantoyuca,Veracruz de Ignacio de la Llave,193,2015,2021,7,27.571428571428573,Bajo
+Maltrata,Veracruz de Ignacio de la Llave,192,2015,2021,7,27.428571428571427,Bajo
+Acatlán,Puebla,192,2015,2021,7,27.428571428571427,Bajo
+Jiquilpan,Michoacán de Ocampo,192,2015,2021,7,27.428571428571427,Bajo
+Chietla,Puebla,192,2015,2021,7,27.428571428571427,Bajo
+Jocotepec,Jalisco,191,2015,2021,7,27.285714285714285,Bajo
+San Jacinto Amilpas,Oaxaca,136,2017,2021,5,27.2,Bajo
+Paracho,Michoacán de Ocampo,189,2015,2021,7,27.0,Bajo
+Hueypoxtla,México,189,2015,2021,7,27.0,Bajo
+Tlapacoyan,Veracruz de Ignacio de la Llave,188,2015,2021,7,26.857142857142858,Bajo
+Juan C. Bonilla,Puebla,188,2015,2021,7,26.857142857142858,Bajo
+Banderilla,Veracruz de Ignacio de la Llave,159,2016,2021,6,26.5,Bajo
+Asientos,Aguascalientes,184,2015,2021,7,26.285714285714285,Bajo
+Acuña,Coahuila de Zaragoza,184,2015,2021,7,26.285714285714285,Bajo
+Tetla de la Solidaridad,Tlaxcala,184,2015,2021,7,26.285714285714285,Bajo
+Loma Bonita,Oaxaca,183,2015,2021,7,26.142857142857142,Bajo
+Ecuandureo,Michoacán de Ocampo,183,2015,2021,7,26.142857142857142,Bajo
+Alvarado,Veracruz de Ignacio de la Llave,182,2015,2021,7,26.0,Bajo
+Coyuca de Catalán,Guerrero,182,2015,2021,7,26.0,Bajo
+Mexicaltzingo,México,182,2015,2021,7,26.0,Bajo
+Atlatlahucan,Morelos,181,2015,2021,7,25.857142857142858,Bajo
+Temascaltepec,México,180,2015,2021,7,25.714285714285715,Bajo
+Juan Rodríguez Clara,Veracruz de Ignacio de la Llave,178,2015,2021,7,25.428571428571427,Bajo
+Tangamandapio,Michoacán de Ocampo,178,2015,2021,7,25.428571428571427,Bajo
+Taretan,Michoacán de Ocampo,177,2015,2021,7,25.285714285714285,Bajo
+Berriozábal,Chiapas,176,2015,2021,7,25.142857142857142,Bajo
+Ozumba,México,176,2015,2021,7,25.142857142857142,Bajo
+San Miguel el Alto,Jalisco,175,2015,2021,7,25.0,Bajo
+Tlahuelilpan,Hidalgo,171,2015,2021,7,24.428571428571427,Bajo
+Tepetitla de Lardizábal,Tlaxcala,171,2015,2021,7,24.428571428571427,Bajo
+Rafael Lara Grajales,Puebla,170,2015,2021,7,24.285714285714285,Bajo
+Mulegé,Baja California Sur,168,2015,2021,7,24.0,Bajo
+Acatic,Jalisco,167,2015,2021,7,23.857142857142858,Bajo
+Felipe Carrillo Puerto,Quintana Roo,167,2015,2021,7,23.857142857142858,Bajo
+Sayula,Jalisco,166,2015,2021,7,23.714285714285715,Bajo
+Huehuetán,Chiapas,166,2015,2021,7,23.714285714285715,Bajo
+Jamay,Jalisco,165,2015,2021,7,23.571428571428573,Bajo
+Santiago,Nuevo León,165,2015,2021,7,23.571428571428573,Bajo
+Salinas Victoria,Nuevo León,163,2015,2021,7,23.285714285714285,Bajo
+Escuintla,Chiapas,162,2015,2021,7,23.142857142857142,Bajo
+Jiquipilco,México,162,2015,2021,7,23.142857142857142,Bajo
+Misantla,Veracruz de Ignacio de la Llave,161,2015,2021,7,23.0,Bajo
+Juanacatlán,Jalisco,160,2015,2021,7,22.857142857142858,Bajo
+Contla de Juan Cuamatzi,Tlaxcala,160,2015,2021,7,22.857142857142858,Bajo
+Frontera Comalapa,Chiapas,159,2015,2021,7,22.714285714285715,Bajo
+Tepanco de López,Puebla,159,2015,2021,7,22.714285714285715,Bajo
+Emiliano Zapata,Tabasco,159,2015,2021,7,22.714285714285715,Bajo
+San Antonio de la Cal,Oaxaca,135,2016,2021,6,22.5,Bajo
+Zapotiltic,Jalisco,157,2015,2021,7,22.428571428571427,Bajo
+Champotón,Campeche,157,2015,2021,7,22.428571428571427,Bajo
+Poncitlán,Jalisco,157,2015,2021,7,22.428571428571427,Bajo
+Yurécuaro,Michoacán de Ocampo,156,2015,2021,7,22.285714285714285,Bajo
+San Miguel Xoxtla,Puebla,156,2015,2021,7,22.285714285714285,Bajo
+Tlaquiltenango,Morelos,155,2015,2021,7,22.142857142857142,Bajo
+Paso del Macho,Veracruz de Ignacio de la Llave,155,2015,2021,7,22.142857142857142,Bajo
+San Salvador,Hidalgo,155,2015,2021,7,22.142857142857142,Bajo
+Bácum,Sonora,154,2015,2021,7,22.0,Bajo
+Coatzintla,Veracruz de Ignacio de la Llave,154,2015,2021,7,22.0,Bajo
+Huetamo,Michoacán de Ocampo,154,2015,2021,7,22.0,Bajo
+Jalacingo,Veracruz de Ignacio de la Llave,154,2015,2021,7,22.0,Bajo
+Bacalar,Quintana Roo,153,2015,2021,7,21.857142857142858,Bajo
+Temamatla,México,153,2015,2021,7,21.857142857142858,Bajo
+Pijijiapan,Chiapas,153,2015,2021,7,21.857142857142858,Bajo
+Atotonilco el Grande,Hidalgo,153,2015,2021,7,21.857142857142858,Bajo
+Santiago Juxtlahuaca,Oaxaca,152,2015,2021,7,21.714285714285715,Bajo
+Lerdo de Tejada,Veracruz de Ignacio de la Llave,130,2016,2021,6,21.666666666666668,Bajo
+Villa de Etla,Oaxaca,108,2017,2021,5,21.6,Bajo
+San José Chiapa,Puebla,151,2015,2021,7,21.571428571428573,Bajo
+González,Tamaulipas,151,2015,2021,7,21.571428571428573,Bajo
+Tlayacapan,Morelos,151,2015,2021,7,21.571428571428573,Bajo
+Uriangato,Guanajuato,150,2015,2021,7,21.428571428571427,Bajo
+Jiménez,Chihuahua,150,2015,2021,7,21.428571428571427,Bajo
+Etchojoa,Sonora,149,2015,2021,7,21.285714285714285,Bajo
+Miguel Auza,Zacatecas,149,2015,2021,7,21.285714285714285,Bajo
+Zacoalco de Torres,Jalisco,147,2015,2021,7,21.0,Bajo
+Soyaniquilpan de Juárez,México,147,2015,2021,7,21.0,Bajo
+San Ignacio,Sinaloa,144,2015,2021,7,20.571428571428573,Bajo
+Ciudad Ixtepec,Oaxaca,144,2015,2021,7,20.571428571428573,Bajo
+La Magdalena Tlaltelulco,Tlaxcala,144,2015,2021,7,20.571428571428573,Bajo
+Progreso,Yucatán,144,2015,2021,7,20.571428571428573,Bajo
+San Agustín Tlaxiaca,Hidalgo,143,2015,2021,7,20.428571428571427,Bajo
+Tixtla de Guerrero,Guerrero,143,2015,2021,7,20.428571428571427,Bajo
+Santa María Colotepec,Oaxaca,143,2015,2021,7,20.428571428571427,Bajo
+Meoqui,Chihuahua,143,2015,2021,7,20.428571428571427,Bajo
+Compostela,Nayarit,143,2015,2021,7,20.428571428571427,Bajo
+San Martín Hidalgo,Jalisco,142,2015,2021,7,20.285714285714285,Bajo
+Zimatlán de Álvarez,Oaxaca,101,2017,2021,5,20.2,Bajo
+Tzompantepec,Tlaxcala,141,2015,2021,7,20.142857142857142,Bajo
+Panotla,Tlaxcala,141,2015,2021,7,20.142857142857142,Bajo
+Jaral del Progreso,Guanajuato,141,2015,2021,7,20.142857142857142,Bajo
+Romita,Guanajuato,141,2015,2021,7,20.142857142857142,Bajo
+Huimilpan,Querétaro,141,2015,2021,7,20.142857142857142,Bajo
+Oluta,Veracruz de Ignacio de la Llave,140,2015,2021,7,20.0,Bajo
+Jonacatepec de Leandro Valle,Morelos,140,2015,2021,7,20.0,Bajo
+Vista Hermosa,Michoacán de Ocampo,139,2015,2021,7,19.857142857142858,Bajo
+Catemaco,Veracruz de Ignacio de la Llave,119,2016,2021,6,19.833333333333332,Bajo
+Acapetahua,Chiapas,138,2015,2021,7,19.714285714285715,Bajo
+Aguililla,Michoacán de Ocampo,138,2015,2021,7,19.714285714285715,Bajo
+Cuapiaxtla,Tlaxcala,137,2015,2021,7,19.571428571428573,Bajo
+Francisco I. Madero,Hidalgo,137,2015,2021,7,19.571428571428573,Bajo
+Cihuatlán,Jalisco,137,2015,2021,7,19.571428571428573,Bajo
+Petatlán,Guerrero,135,2015,2021,7,19.285714285714285,Bajo
+Venustiano Carranza,Michoacán de Ocampo,135,2015,2021,7,19.285714285714285,Bajo
+El Carmen,Nuevo León,135,2015,2021,7,19.285714285714285,Bajo
+Allende,Nuevo León,134,2015,2021,7,19.142857142857142,Bajo
+Mazatán,Chiapas,133,2015,2021,7,19.0,Bajo
+Chapultepec,México,133,2015,2021,7,19.0,Bajo
+Valparaíso,Zacatecas,133,2015,2021,7,19.0,Bajo
+Tepecoacuilco de Trujano,Guerrero,132,2015,2021,7,18.857142857142858,Bajo
+Ocuilan,México,132,2015,2021,7,18.857142857142858,Bajo
+Putla Villa de Guerrero,Oaxaca,131,2015,2021,7,18.714285714285715,Bajo
+Villa del Carbón,México,130,2015,2021,7,18.571428571428573,Bajo
+Ciénega de Flores,Nuevo León,130,2015,2021,7,18.571428571428573,Bajo
+Coscomatepec,Veracruz de Ignacio de la Llave,129,2015,2021,7,18.428571428571427,Bajo
+Armería,Colima,129,2015,2021,7,18.428571428571427,Bajo
+Las Margaritas,Chiapas,128,2015,2021,7,18.285714285714285,Bajo
+Xaloztoc,Tlaxcala,127,2015,2021,7,18.142857142857142,Bajo
+Manuel Doblado,Guanajuato,127,2015,2021,7,18.142857142857142,Bajo
+Coatepec Harinas,México,125,2015,2021,7,17.857142857142858,Bajo
+San José del Rincón,México,124,2015,2021,7,17.714285714285715,Bajo
+Matamoros,Coahuila de Zaragoza,124,2015,2021,7,17.714285714285715,Bajo
+Hueyapan de Ocampo,Veracruz de Ignacio de la Llave,122,2015,2021,7,17.428571428571427,Bajo
+Ticul,Yucatán,122,2015,2021,7,17.428571428571427,Bajo
+General Felipe Ángeles,Puebla,121,2015,2021,7,17.285714285714285,Bajo
+San Matías Tlalancaleca,Puebla,121,2015,2021,7,17.285714285714285,Bajo
+Juchitepec,México,120,2015,2021,7,17.142857142857142,Bajo
+Atoyac,Veracruz de Ignacio de la Llave,120,2015,2021,7,17.142857142857142,Bajo
+Villa Corzo,Chiapas,119,2015,2021,7,17.0,Bajo
+Salinas,San Luis Potosí,102,2016,2021,6,17.0,Bajo
+San Pablo Etla,Oaxaca,85,2017,2021,5,17.0,Bajo
+Mariano Escobedo,Veracruz de Ignacio de la Llave,119,2015,2021,7,17.0,Bajo
+Tuxtla Chico,Chiapas,119,2015,2021,7,17.0,Bajo
+Nuevo Casas Grandes,Chihuahua,119,2015,2021,7,17.0,Bajo
+Purísima del Rincón,Guanajuato,119,2015,2021,7,17.0,Bajo
+No Especificado,Querétaro,118,2015,2021,7,16.857142857142858,Bajo
+Jesús María,Jalisco,118,2015,2021,7,16.857142857142858,Bajo
+Luis Moya,Zacatecas,118,2015,2021,7,16.857142857142858,Bajo
+Huitzuco de los Figueroa,Guerrero,118,2015,2021,7,16.857142857142858,Bajo
+Xicohtzinco,Tlaxcala,117,2015,2021,7,16.714285714285715,Bajo
+Omealca,Veracruz de Ignacio de la Llave,117,2015,2021,7,16.714285714285715,Bajo
+Totolac,Tlaxcala,117,2015,2021,7,16.714285714285715,Bajo
+Ahuazotepec,Puebla,117,2015,2021,7,16.714285714285715,Bajo
+Juan Aldama,Zacatecas,116,2015,2021,7,16.571428571428573,Bajo
+Teolocholco,Tlaxcala,113,2015,2021,7,16.142857142857142,Bajo
+Ahualulco de Mercado,Jalisco,113,2015,2021,7,16.142857142857142,Bajo
+Cuyoaco,Puebla,113,2015,2021,7,16.142857142857142,Bajo
+Tepetlixpa,México,112,2015,2021,7,16.0,Bajo
+Epazoyucan,Hidalgo,111,2015,2021,7,15.857142857142858,Bajo
+Cuerámaro,Guanajuato,111,2015,2021,7,15.857142857142858,Bajo
+Tuxpan,Michoacán de Ocampo,111,2015,2021,7,15.857142857142858,Bajo
+El Carmen Tequexquitla,Tlaxcala,110,2015,2021,7,15.714285714285714,Bajo
+Arcelia,Guerrero,110,2015,2021,7,15.714285714285714,Bajo
+Amacuzac,Morelos,110,2015,2021,7,15.714285714285714,Bajo
+Moroleón,Guanajuato,109,2015,2021,7,15.571428571428571,Bajo
+Arteaga,Coahuila de Zaragoza,108,2015,2021,7,15.428571428571429,Bajo
+No Especificado,Veracruz de Ignacio de la Llave,46,2019,2021,3,15.333333333333334,Bajo
+Pueblo Viejo,Veracruz de Ignacio de la Llave,107,2015,2021,7,15.285714285714286,Bajo
+Aljojuca,Puebla,91,2015,2020,6,15.166666666666666,Bajo
+Villa de Cos,Zacatecas,106,2015,2021,7,15.142857142857142,Bajo
+Tingambato,Michoacán de Ocampo,106,2015,2021,7,15.142857142857142,Bajo
+Jilotzingo,México,106,2015,2021,7,15.142857142857142,Bajo
+Motul,Yucatán,106,2015,2021,7,15.142857142857142,Bajo
+Xoxocotla,Morelos,15,2021,2021,1,15.0,Bajo
+Tolcayuca,Hidalgo,105,2015,2021,7,15.0,Bajo
+Villa de Allende,México,104,2015,2021,7,14.857142857142858,Bajo
+Nochistlán de Mejía,Zacatecas,104,2015,2021,7,14.857142857142858,Bajo
+Pueblo Nuevo,Durango,103,2015,2021,7,14.714285714285714,Bajo
+Candelaria,Campeche,103,2015,2021,7,14.714285714285714,Bajo
+Tenancingo,Tlaxcala,103,2015,2021,7,14.714285714285714,Bajo
+Tonatico,México,102,2015,2021,7,14.571428571428571,Bajo
+Tuxpan,Jalisco,102,2015,2021,7,14.571428571428571,Bajo
+Quiroga,Michoacán de Ocampo,102,2015,2021,7,14.571428571428571,Bajo
+Acaponeta,Nayarit,102,2015,2021,7,14.571428571428571,Bajo
+Camargo,Chihuahua,101,2015,2021,7,14.428571428571429,Bajo
+Rafael Delgado,Veracruz de Ignacio de la Llave,101,2015,2021,7,14.428571428571429,Bajo
+El Oro,México,100,2015,2021,7,14.285714285714286,Bajo
+Tacotalpa,Tabasco,100,2015,2021,7,14.285714285714286,Bajo
+San Diego de la Unión,Guanajuato,100,2015,2021,7,14.285714285714286,Bajo
+Acacoyagua,Chiapas,100,2015,2021,7,14.285714285714286,Bajo
+General Zuazua,Nuevo León,100,2015,2021,7,14.285714285714286,Bajo
+El Llano,Aguascalientes,99,2015,2021,7,14.142857142857142,Bajo
+Santa María del Río,San Luis Potosí,99,2015,2021,7,14.142857142857142,Bajo
+Concepción del Oro,Zacatecas,99,2015,2021,7,14.142857142857142,Bajo
+Tizimín,Yucatán,99,2015,2021,7,14.142857142857142,Bajo
+Naranjos Amatlán,Veracruz de Ignacio de la Llave,99,2015,2021,7,14.142857142857142,Bajo
+Zaragoza,Puebla,99,2015,2021,7,14.142857142857142,Bajo
+Tepalcingo,Morelos,99,2015,2021,7,14.142857142857142,Bajo
+Ocuituco,Morelos,98,2015,2021,7,14.0,Bajo
+Villa Corona,Jalisco,98,2015,2021,7,14.0,Bajo
+San Lorenzo Cacaotepec,Oaxaca,70,2017,2021,5,14.0,Bajo
+Yahualica de González Gallo,Jalisco,98,2015,2021,7,14.0,Bajo
+Xalisco,Nayarit,98,2015,2021,7,14.0,Bajo
+Motozintla,Chiapas,97,2015,2021,7,13.857142857142858,Bajo
+Purépero,Michoacán de Ocampo,97,2015,2021,7,13.857142857142858,Bajo
+Cuilápam de Guerrero,Oaxaca,55,2018,2021,4,13.75,Bajo
+José María Morelos,Quintana Roo,96,2015,2021,7,13.714285714285714,Bajo
+Ixtlán del Río,Nayarit,95,2015,2021,7,13.571428571428571,Bajo
+Acultzingo,Veracruz de Ignacio de la Llave,94,2015,2021,7,13.428571428571429,Bajo
+Chiautla,Puebla,93,2015,2021,7,13.285714285714286,Bajo
+Pichucalco,Chiapas,92,2015,2021,7,13.142857142857142,Bajo
+Nanacamilpa de Mariano Arista,Tlaxcala,92,2015,2021,7,13.142857142857142,Bajo
+Playa Vicente,Veracruz de Ignacio de la Llave,92,2015,2021,7,13.142857142857142,Bajo
+General Pánfilo Natera,Zacatecas,92,2015,2021,7,13.142857142857142,Bajo
+San Pedro,Coahuila de Zaragoza,92,2015,2021,7,13.142857142857142,Bajo
+Balancán,Tabasco,78,2016,2021,6,13.0,Bajo
+Tlatlauquitepec,Puebla,91,2015,2021,7,13.0,Bajo
+Villamar,Michoacán de Ocampo,91,2015,2021,7,13.0,Bajo
+Atltzayanca,Tlaxcala,91,2015,2021,7,13.0,Bajo
+Tanhuato,Michoacán de Ocampo,91,2015,2021,7,13.0,Bajo
+Bocoyna,Chihuahua,91,2015,2021,7,13.0,Bajo
+Peribán,Michoacán de Ocampo,91,2015,2021,7,13.0,Bajo
+Santiago Tuxtla,Veracruz de Ignacio de la Llave,91,2015,2021,7,13.0,Bajo
+Tamazunchale,San Luis Potosí,91,2015,2021,7,13.0,Bajo
+Juan Galindo,Puebla,90,2015,2021,7,12.857142857142858,Bajo
+Tuzantán,Chiapas,90,2015,2021,7,12.857142857142858,Bajo
+Villa de Reyes,San Luis Potosí,90,2015,2021,7,12.857142857142858,Bajo
+Coalcomán de Vázquez Pallares,Michoacán de Ocampo,90,2015,2021,7,12.857142857142858,Bajo
+Atlautla,México,90,2015,2021,7,12.857142857142858,Bajo
+Santiago Miahuatlán,Puebla,90,2015,2021,7,12.857142857142858,Bajo
+Tingüindín,Michoacán de Ocampo,89,2015,2021,7,12.714285714285714,Bajo
+Aldama,Chihuahua,89,2015,2021,7,12.714285714285714,Bajo
+Ayotlán,Jalisco,89,2015,2021,7,12.714285714285714,Bajo
+Tototlán,Jalisco,89,2015,2021,7,12.714285714285714,Bajo
+Atizapán,México,88,2015,2021,7,12.571428571428571,Bajo
+Chignautla,Puebla,88,2015,2021,7,12.571428571428571,Bajo
+Sabinas,Coahuila de Zaragoza,88,2015,2021,7,12.571428571428571,Bajo
+Ajalpan,Puebla,88,2015,2021,7,12.571428571428571,Bajo
+Angel R. Cabada,Veracruz de Ignacio de la Llave,75,2016,2021,6,12.5,Bajo
+Chiautzingo,Puebla,87,2015,2021,7,12.428571428571429,Bajo
+Umán,Yucatán,87,2015,2021,7,12.428571428571429,Bajo
+Degollado,Jalisco,87,2015,2021,7,12.428571428571429,Bajo
+Tamuín,San Luis Potosí,87,2015,2021,7,12.428571428571429,Bajo
+Amatitán,Jalisco,87,2015,2021,7,12.428571428571429,Bajo
+Santa Cruz Amilpas,Oaxaca,62,2017,2021,5,12.4,Bajo
+Jalpa,Zacatecas,86,2015,2021,7,12.285714285714286,Bajo
+Ojuelos de Jalisco,Jalisco,86,2015,2021,7,12.285714285714286,Bajo
+Tlachichuca,Puebla,86,2015,2021,7,12.285714285714286,Bajo
+Cananea,Sonora,86,2015,2021,7,12.285714285714286,Bajo
+Miacatlán,Morelos,86,2015,2021,7,12.285714285714286,Bajo
+Huanímaro,Guanajuato,86,2015,2021,7,12.285714285714286,Bajo
+Actopan,Veracruz de Ignacio de la Llave,73,2016,2021,6,12.166666666666666,Bajo
+Morelos,Zacatecas,85,2015,2021,7,12.142857142857142,Bajo
+Santo Tomás Hueyotlipan,Puebla,85,2015,2021,7,12.142857142857142,Bajo
+Cosío,Aguascalientes,85,2015,2021,7,12.142857142857142,Bajo
+Zapotlán de Juárez,Hidalgo,84,2015,2021,7,12.0,Bajo
+Villa de Tezontepec,Hidalgo,84,2015,2021,7,12.0,Bajo
+Ojinaga,Chihuahua,84,2015,2021,7,12.0,Bajo
+Valladolid,Yucatán,84,2015,2021,7,12.0,Bajo
+Coquimatlán,Colima,84,2015,2021,7,12.0,Bajo
+Zimapán,Hidalgo,83,2015,2021,7,11.857142857142858,Bajo
+Atempan,Puebla,83,2015,2021,7,11.857142857142858,Bajo
+El Higo,Veracruz de Ignacio de la Llave,83,2015,2021,7,11.857142857142858,Bajo
+El Grullo,Jalisco,82,2015,2021,7,11.714285714285714,Bajo
+Cuauhtémoc,Colima,82,2015,2021,7,11.714285714285714,Bajo
+La Huacana,Michoacán de Ocampo,82,2015,2021,7,11.714285714285714,Bajo
+Hueyotlipan,Tlaxcala,81,2015,2021,7,11.571428571428571,Bajo
+Venustiano Carranza,Chiapas,81,2015,2021,7,11.571428571428571,Bajo
+Oteapan,Veracruz de Ignacio de la Llave,81,2015,2021,7,11.571428571428571,Bajo
+Ocoyucan,Puebla,81,2015,2021,7,11.571428571428571,Bajo
+San Julián,Jalisco,81,2015,2021,7,11.571428571428571,Bajo
+Ixhuatlán del Sureste,Veracruz de Ignacio de la Llave,80,2015,2021,7,11.428571428571429,Bajo
+Tlanalapa,Hidalgo,80,2015,2021,7,11.428571428571429,Bajo
+Teloloapan,Guerrero,80,2015,2021,7,11.428571428571429,Bajo
+Santa María Tonameca,Oaxaca,68,2016,2021,6,11.333333333333334,Bajo
+Texistepec,Veracruz de Ignacio de la Llave,68,2016,2021,6,11.333333333333334,Bajo
+Tamazula de Gordiano,Jalisco,79,2015,2021,7,11.285714285714286,Bajo
+Santiago Papasquiaro,Durango,79,2015,2021,7,11.285714285714286,Bajo
+Texcaltitlán,México,79,2015,2021,7,11.285714285714286,Bajo
+Ixtlán,Michoacán de Ocampo,79,2015,2021,7,11.285714285714286,Bajo
+Santa Isabel Cholula,Puebla,79,2015,2021,7,11.285714285714286,Bajo
+Jerécuaro,Guanajuato,79,2015,2021,7,11.285714285714286,Bajo
+Concordia,Sinaloa,78,2015,2021,7,11.142857142857142,Bajo
+Tepatlaxco de Hidalgo,Puebla,78,2015,2021,7,11.142857142857142,Bajo
+Tecuala,Nayarit,78,2015,2021,7,11.142857142857142,Bajo
+Atzalan,Veracruz de Ignacio de la Llave,77,2015,2021,7,11.0,Bajo
+Aldama,Tamaulipas,77,2015,2021,7,11.0,Bajo
+San Agustín de las Juntas,Oaxaca,55,2017,2021,5,11.0,Bajo
+Acatlán de Pérez Figueroa,Oaxaca,76,2015,2021,7,10.857142857142858,Bajo
+Tepexi de Rodríguez,Puebla,76,2015,2021,7,10.857142857142858,Bajo
+El Arenal,Hidalgo,76,2015,2021,7,10.857142857142858,Bajo
+Emiliano Zapata,Hidalgo,76,2015,2021,7,10.857142857142858,Bajo
+Xicoténcatl,Tamaulipas,76,2015,2021,7,10.857142857142858,Bajo
+Doctor Mora,Guanajuato,75,2015,2021,7,10.714285714285714,Bajo
+Yanga,Veracruz de Ignacio de la Llave,75,2015,2021,7,10.714285714285714,Bajo
+San Gregorio Atzompa,Puebla,75,2015,2021,7,10.714285714285714,Bajo
+Tamazula,Durango,64,2015,2020,6,10.666666666666666,Bajo
+Puerto Morelos,Quintana Roo,64,2016,2021,6,10.666666666666666,Bajo
+San Blas,Nayarit,74,2015,2021,7,10.571428571428571,Bajo
+José Sixto Verduzco,Michoacán de Ocampo,74,2015,2021,7,10.571428571428571,Bajo
+San Ignacio Río Muerto,Sonora,74,2015,2021,7,10.571428571428571,Bajo
+Tilapa,Puebla,63,2016,2021,6,10.5,Bajo
+San Juan Evangelista,Veracruz de Ignacio de la Llave,73,2015,2021,7,10.428571428571429,Bajo
+Tenango del Aire,México,73,2015,2021,7,10.428571428571429,Bajo
+Tecolotlán,Jalisco,73,2015,2021,7,10.428571428571429,Bajo
+Cotaxtla,Veracruz de Ignacio de la Llave,73,2015,2021,7,10.428571428571429,Bajo
+Heroica Ciudad de Ejutla de Crespo,Oaxaca,52,2017,2021,5,10.4,Bajo
+Almoloya del Río,México,72,2015,2021,7,10.285714285714286,Bajo
+Ciudad Fernández,San Luis Potosí,72,2015,2021,7,10.285714285714286,Bajo
+Ixtlahuacán del Río,Jalisco,72,2015,2021,7,10.285714285714286,Bajo
+Temoac,Morelos,72,2015,2021,7,10.285714285714286,Bajo
+Tempoal,Veracruz de Ignacio de la Llave,61,2016,2021,6,10.166666666666666,Bajo
+Soledad de Doblado,Veracruz de Ignacio de la Llave,71,2015,2021,7,10.142857142857142,Bajo
+Pueblo Nuevo,Guanajuato,71,2015,2021,7,10.142857142857142,Bajo
+Ixtapa,Chiapas,71,2015,2021,7,10.142857142857142,Bajo
+Catazajá,Chiapas,71,2015,2021,7,10.142857142857142,Bajo
+Mazatecochco de José María Morelos,Tlaxcala,71,2015,2021,7,10.142857142857142,Bajo
+Villanueva,Zacatecas,70,2015,2021,7,10.0,Bajo
+Isidro Fabela,México,70,2015,2021,7,10.0,Bajo
+Guerrero,Chihuahua,70,2015,2021,7,10.0,Bajo
+José Azueta,Veracruz de Ignacio de la Llave,70,2015,2021,7,10.0,Bajo
+Xico,Veracruz de Ignacio de la Llave,70,2015,2021,7,10.0,Bajo
+Xiutetelco,Puebla,69,2015,2021,7,9.857142857142858,Bajo
+Álvaro Obregón,Michoacán de Ocampo,69,2015,2021,7,9.857142857142858,Bajo
+Maxcanú,Yucatán,69,2015,2021,7,9.857142857142858,Bajo
+Santa Cruz Tlaxcala,Tlaxcala,69,2015,2021,7,9.857142857142858,Bajo
+Magdalena,Jalisco,69,2015,2021,7,9.857142857142858,Bajo
+Pánuco,Zacatecas,68,2015,2021,7,9.714285714285714,Bajo
+Izamal,Yucatán,68,2015,2021,7,9.714285714285714,Bajo
+Malinalco,México,68,2015,2021,7,9.714285714285714,Bajo
+Gutiérrez Zamora,Veracruz de Ignacio de la Llave,68,2015,2021,7,9.714285714285714,Bajo
+Tekax,Yucatán,68,2015,2021,7,9.714285714285714,Bajo
+Cuichapa,Veracruz de Ignacio de la Llave,58,2016,2021,6,9.666666666666666,Bajo
+San Juan Huactzinco,Tlaxcala,67,2015,2021,7,9.571428571428571,Bajo
+Juárez,Chiapas,67,2015,2021,7,9.571428571428571,Bajo
+Charo,Michoacán de Ocampo,67,2015,2021,7,9.571428571428571,Bajo
+Tizapán el Alto,Jalisco,67,2015,2021,7,9.571428571428571,Bajo
+Moloacán,Veracruz de Ignacio de la Llave,57,2016,2021,6,9.5,Bajo
+Ozuluama de Mascareñas,Veracruz de Ignacio de la Llave,66,2015,2021,7,9.428571428571429,Bajo
+General Plutarco Elías Calles,Sonora,66,2015,2021,7,9.428571428571429,Bajo
+Cuencamé,Durango,66,2015,2021,7,9.428571428571429,Bajo
+Cuauhtémoc,Zacatecas,66,2015,2021,7,9.428571428571429,Bajo
+Joquicingo,México,66,2015,2021,7,9.428571428571429,Bajo
+Juan R. Escudero,Guerrero,66,2015,2021,7,9.428571428571429,Bajo
+Tetlatlahuca,Tlaxcala,66,2015,2021,7,9.428571428571429,Bajo
+Chapulco,Puebla,56,2016,2021,6,9.333333333333334,Bajo
+Papalotla,México,65,2015,2021,7,9.285714285714286,Bajo
+Jalpan de Serra,Querétaro,65,2015,2021,7,9.285714285714286,Bajo
+Guachochi,Chihuahua,65,2015,2021,7,9.285714285714286,Bajo
+Tepezalá,Aguascalientes,65,2015,2021,7,9.285714285714286,Bajo
+Nuevo Urecho,Michoacán de Ocampo,55,2016,2021,6,9.166666666666666,Bajo
+Etzatlán,Jalisco,64,2015,2021,7,9.142857142857142,Bajo
+Ixtenco,Tlaxcala,64,2015,2021,7,9.142857142857142,Bajo
+Coeneo,Michoacán de Ocampo,64,2015,2021,7,9.142857142857142,Bajo
+Güémez,Tamaulipas,64,2015,2021,7,9.142857142857142,Bajo
+Rayón,México,63,2015,2021,7,9.0,Bajo
+Tepeyanco,Tlaxcala,63,2015,2021,7,9.0,Bajo
+Tlalixtac de Cabrera,Oaxaca,45,2017,2021,5,9.0,Bajo
+Tecozautla,Hidalgo,63,2015,2021,7,9.0,Bajo
+Tomatlán,Jalisco,63,2015,2021,7,9.0,Bajo
+Loreto,Baja California Sur,62,2015,2021,7,8.857142857142858,Bajo
+Tehuitzingo,Puebla,62,2015,2021,7,8.857142857142858,Bajo
+Chilón,Chiapas,62,2015,2021,7,8.857142857142858,Bajo
+Tlalixcoyan,Veracruz de Ignacio de la Llave,62,2015,2021,7,8.857142857142858,Bajo
+Donato Guerra,México,62,2015,2021,7,8.857142857142858,Bajo
+La Perla,Veracruz de Ignacio de la Llave,44,2017,2021,5,8.8,Bajo
+San Bartolo Coyotepec,Oaxaca,44,2017,2021,5,8.8,Bajo
+Asunción Nochixtlán,Oaxaca,44,2017,2021,5,8.8,Bajo
+San Fernando,Chiapas,61,2015,2021,7,8.714285714285714,Bajo
+Nopala de Villagrán,Hidalgo,61,2015,2021,7,8.714285714285714,Bajo
+Villa de Tututepec,Oaxaca,61,2015,2021,7,8.714285714285714,Bajo
+Venustiano Carranza,Puebla,61,2015,2021,7,8.714285714285714,Bajo
+Santa Ana,Sonora,61,2015,2021,7,8.714285714285714,Bajo
+Nealtican,Puebla,52,2016,2021,6,8.666666666666666,Bajo
+Múzquiz,Coahuila de Zaragoza,60,2015,2021,7,8.571428571428571,Bajo
+Asunción Ixtaltepec,Oaxaca,34,2018,2021,4,8.5,Bajo
+Ziltlaltépec de Trinidad Sánchez Santos,Tlaxcala,59,2015,2021,7,8.428571428571429,Bajo
+Yécora,Sonora,59,2015,2021,7,8.428571428571429,Bajo
+Trancoso,Zacatecas,58,2015,2021,7,8.285714285714286,Bajo
+Huiloapan de Cuauhtémoc,Veracruz de Ignacio de la Llave,58,2015,2021,7,8.285714285714286,Bajo
+Acuitzio,Michoacán de Ocampo,58,2015,2021,7,8.285714285714286,Bajo
+Tlaltenango,Puebla,49,2016,2021,6,8.166666666666666,Bajo
+Teopisca,Chiapas,49,2016,2021,6,8.166666666666666,Bajo
+Amaxac de Guerrero,Tlaxcala,57,2015,2021,7,8.142857142857142,Bajo
+Frontera Hidalgo,Chiapas,57,2015,2021,7,8.142857142857142,Bajo
+Sain Alto,Zacatecas,57,2015,2021,7,8.142857142857142,Bajo
+Altepexi,Puebla,56,2015,2021,7,8.0,Bajo
+Huazalingo,Hidalgo,8,2016,2016,1,8.0,Bajo
+Madera,Chihuahua,56,2015,2021,7,8.0,Bajo
+Jiquipilas,Chiapas,56,2015,2021,7,8.0,Bajo
+Santa María del Tule,Oaxaca,40,2017,2021,5,8.0,Bajo
+Tlalpujahua,Michoacán de Ocampo,56,2015,2021,7,8.0,Bajo
+Vicente Guerrero,Durango,56,2015,2021,7,8.0,Bajo
+Sanctórum de Lázaro Cárdenas,Tlaxcala,56,2015,2021,7,8.0,Bajo
+Puente Nacional,Veracruz de Ignacio de la Llave,55,2015,2021,7,7.857142857142857,Bajo
+Valle de Guadalupe,Jalisco,55,2015,2021,7,7.857142857142857,Bajo
+Santiago de Anaya,Hidalgo,55,2015,2021,7,7.857142857142857,Bajo
+San José de Gracia,Aguascalientes,55,2015,2021,7,7.857142857142857,Bajo
+Isla Mujeres,Quintana Roo,55,2015,2021,7,7.857142857142857,Bajo
+Morelos,México,55,2015,2021,7,7.857142857142857,Bajo
+Huixtán,Chiapas,55,2015,2021,7,7.857142857142857,Bajo
+Cedral,San Luis Potosí,39,2017,2021,5,7.8,Bajo
+Mezcalapa,Chiapas,31,2018,2021,4,7.75,Bajo
+San Andrés Huayápam,Oaxaca,31,2018,2021,4,7.75,Bajo
+Tuxpan,Nayarit,54,2015,2021,7,7.714285714285714,Bajo
+Zacualtipán de Ángeles,Hidalgo,54,2015,2021,7,7.714285714285714,Bajo
+Tecpatán,Chiapas,54,2015,2021,7,7.714285714285714,Bajo
+Calpan,Puebla,54,2015,2021,7,7.714285714285714,Bajo
+Carrillo Puerto,Veracruz de Ignacio de la Llave,54,2015,2021,7,7.714285714285714,Bajo
+San Felipe Teotlalcingo,Puebla,54,2015,2021,7,7.714285714285714,Bajo
+Cotija,Michoacán de Ocampo,54,2015,2021,7,7.714285714285714,Bajo
+Cosolapa,Oaxaca,23,2018,2020,3,7.666666666666667,Bajo
+Abasolo,Tamaulipas,46,2015,2020,6,7.666666666666667,Bajo
+San Marcos,Guerrero,53,2015,2021,7,7.571428571428571,Bajo
+San Ignacio Cerro Gordo,Jalisco,53,2015,2021,7,7.571428571428571,Bajo
+Saucillo,Chihuahua,53,2015,2021,7,7.571428571428571,Bajo
+Tlacotalpan,Veracruz de Ignacio de la Llave,53,2015,2021,7,7.571428571428571,Bajo
+Villa García,Zacatecas,53,2015,2021,7,7.571428571428571,Bajo
+Camargo,Tamaulipas,53,2015,2021,7,7.571428571428571,Bajo
+Briseñas,Michoacán de Ocampo,45,2015,2020,6,7.5,Bajo
+Chicontepec,Veracruz de Ignacio de la Llave,52,2015,2021,7,7.428571428571429,Bajo
+Teocaltiche,Jalisco,52,2015,2021,7,7.428571428571429,Bajo
+Ahualulco,San Luis Potosí,52,2015,2021,7,7.428571428571429,Bajo
+Carlos A. Carrillo,Veracruz de Ignacio de la Llave,52,2015,2021,7,7.428571428571429,Bajo
+Ursulo Galván,Veracruz de Ignacio de la Llave,52,2015,2021,7,7.428571428571429,Bajo
+Tlazazalca,Michoacán de Ocampo,52,2015,2021,7,7.428571428571429,Bajo
+Churintzio,Michoacán de Ocampo,52,2015,2021,7,7.428571428571429,Bajo
+Cerro Azul,Veracruz de Ignacio de la Llave,51,2015,2021,7,7.285714285714286,Bajo
+Xaltocan,Tlaxcala,51,2015,2021,7,7.285714285714286,Bajo
+La Trinitaria,Chiapas,51,2015,2021,7,7.285714285714286,Bajo
+Mazapil,Zacatecas,51,2015,2021,7,7.285714285714286,Bajo
+Colotlán,Jalisco,51,2015,2021,7,7.285714285714286,Bajo
+Chinameca,Veracruz de Ignacio de la Llave,51,2015,2021,7,7.285714285714286,Bajo
+Bochil,Chiapas,51,2015,2021,7,7.285714285714286,Bajo
+Santa Isabel Xiloxoxtla,Tlaxcala,51,2015,2021,7,7.285714285714286,Bajo
+Padilla,Tamaulipas,51,2015,2021,7,7.285714285714286,Bajo
+Acatlán,Hidalgo,50,2015,2021,7,7.142857142857143,Bajo
+Alfajayucan,Hidalgo,50,2015,2021,7,7.142857142857143,Bajo
+Soconusco,Veracruz de Ignacio de la Llave,50,2015,2021,7,7.142857142857143,Bajo
+San Gabriel Chilac,Puebla,49,2015,2021,7,7.0,Bajo
+Ures,Sonora,42,2015,2020,6,7.0,Bajo
+Pajacuarán,Michoacán de Ocampo,49,2015,2021,7,7.0,Bajo
+Zacapoaxtla,Puebla,49,2015,2021,7,7.0,Bajo
+El Espinal,Oaxaca,28,2018,2021,4,7.0,Bajo
+Satevó,Chihuahua,49,2015,2021,7,7.0,Bajo
+Teuchitlán,Jalisco,49,2015,2021,7,7.0,Bajo
+Gustavo Díaz Ordaz,Tamaulipas,49,2015,2021,7,7.0,Bajo
+Villa de Arriaga,San Luis Potosí,49,2015,2021,7,7.0,Bajo
+Espinal,Veracruz de Ignacio de la Llave,49,2015,2021,7,7.0,Bajo
+Tlapehuala,Guerrero,48,2015,2021,7,6.857142857142857,Bajo
+Cacahoatán,Chiapas,48,2015,2021,7,6.857142857142857,Bajo
+Badiraguato,Sinaloa,48,2015,2021,7,6.857142857142857,Bajo
+Zinacatepec,Puebla,48,2015,2021,7,6.857142857142857,Bajo
+Tasquillo,Hidalgo,48,2015,2021,7,6.857142857142857,Bajo
+Zapotitlán,Puebla,48,2015,2021,7,6.857142857142857,Bajo
+Santa Isabel,Chihuahua,48,2015,2021,7,6.857142857142857,Bajo
+Chapa de Mota,México,48,2015,2021,7,6.857142857142857,Bajo
+Mineral del Monte,Hidalgo,48,2015,2021,7,6.857142857142857,Bajo
+Soto la Marina,Tamaulipas,48,2015,2021,7,6.857142857142857,Bajo
+General Enrique Estrada,Zacatecas,48,2015,2021,7,6.857142857142857,Bajo
+Yajalón,Chiapas,48,2015,2021,7,6.857142857142857,Bajo
+Las Rosas,Chiapas,41,2016,2021,6,6.833333333333333,Bajo
+Otros Municipios,Veracruz de Ignacio de la Llave,27,2018,2021,4,6.75,Bajo
+Magdalena Apasco,Oaxaca,27,2018,2021,4,6.75,Bajo
+Españita,Tlaxcala,47,2015,2021,7,6.714285714285714,Bajo
+Acuamanala de Miguel Hidalgo,Tlaxcala,47,2015,2021,7,6.714285714285714,Bajo
+Irimbo,Michoacán de Ocampo,47,2015,2021,7,6.714285714285714,Bajo
+Villa Hidalgo,Zacatecas,47,2015,2021,7,6.714285714285714,Bajo
+Jesús Carranza,Veracruz de Ignacio de la Llave,47,2015,2021,7,6.714285714285714,Bajo
+Vetagrande,Zacatecas,47,2015,2021,7,6.714285714285714,Bajo
+Huamuxtitlán,Guerrero,47,2015,2021,7,6.714285714285714,Bajo
+Choix,Sinaloa,40,2016,2021,6,6.666666666666667,Bajo
+Naolinco,Veracruz de Ignacio de la Llave,33,2017,2021,5,6.6,Bajo
+Las Vigas de Ramírez,Veracruz de Ignacio de la Llave,46,2015,2021,7,6.571428571428571,Bajo
+Francisco I. Madero,Coahuila de Zaragoza,46,2015,2021,7,6.571428571428571,Bajo
+Santa Ana Nopalucan,Tlaxcala,46,2015,2021,7,6.571428571428571,Bajo
+Indaparapeo,Michoacán de Ocampo,46,2015,2021,7,6.571428571428571,Bajo
+Cosalá,Sinaloa,46,2015,2021,7,6.571428571428571,Bajo
+Oxchuc,Chiapas,46,2015,2021,7,6.571428571428571,Bajo
+Santa Catarina Ayometla,Tlaxcala,46,2015,2021,7,6.571428571428571,Bajo
+Ayutla de los Libres,Guerrero,46,2015,2021,7,6.571428571428571,Bajo
+Juárez,Michoacán de Ocampo,46,2015,2021,7,6.571428571428571,Bajo
+Mazamitla,Jalisco,46,2015,2021,7,6.571428571428571,Bajo
+Tula,Tamaulipas,45,2015,2021,7,6.428571428571429,Bajo
+Ajacuba,Hidalgo,45,2015,2021,7,6.428571428571429,Bajo
+Madero,Michoacán de Ocampo,45,2015,2021,7,6.428571428571429,Bajo
+Tetela de Ocampo,Puebla,45,2015,2021,7,6.428571428571429,Bajo
+Imuris,Sonora,45,2015,2021,7,6.428571428571429,Bajo
+Coxcatlán,Puebla,45,2015,2021,7,6.428571428571429,Bajo
+Llera,Tamaulipas,45,2015,2021,7,6.428571428571429,Bajo
+San Nicolás Buenos Aires,Puebla,45,2015,2021,7,6.428571428571429,Bajo
+Ixhuatlancillo,Veracruz de Ignacio de la Llave,45,2015,2021,7,6.428571428571429,Bajo
+Amanalco,México,45,2015,2021,7,6.428571428571429,Bajo
+San Vicente Tancuayalab,San Luis Potosí,32,2017,2021,5,6.4,Bajo
+Juchipila,Zacatecas,44,2015,2021,7,6.285714285714286,Bajo
+Manlio Fabio Altamirano,Veracruz de Ignacio de la Llave,44,2015,2021,7,6.285714285714286,Bajo
+Cuetzalan del Progreso,Puebla,44,2015,2021,7,6.285714285714286,Bajo
+Guadalupe Victoria,Durango,44,2015,2021,7,6.285714285714286,Bajo
+Castaños,Coahuila de Zaragoza,44,2015,2021,7,6.285714285714286,Bajo
+Gómez Farías,Jalisco,44,2015,2021,7,6.285714285714286,Bajo
+Tarandacuao,Guanajuato,44,2015,2021,7,6.285714285714286,Bajo
+Ayapango,México,44,2015,2021,7,6.285714285714286,Bajo
+Cherán,Michoacán de Ocampo,43,2015,2021,7,6.142857142857143,Bajo
+Pilcaya,Guerrero,43,2015,2021,7,6.142857142857143,Bajo
+Huandacareo,Michoacán de Ocampo,43,2015,2021,7,6.142857142857143,Bajo
+Comala,Colima,43,2015,2021,7,6.142857142857143,Bajo
+Sinaloa,Sinaloa,43,2015,2021,7,6.142857142857143,Bajo
+Timilpan,México,43,2015,2021,7,6.142857142857143,Bajo
+Totolapan,Morelos,43,2015,2021,7,6.142857142857143,Bajo
+Zongolica,Veracruz de Ignacio de la Llave,43,2015,2021,7,6.142857142857143,Bajo
+Tepalcatepec,Michoacán de Ocampo,42,2015,2021,7,6.0,Bajo
+Tapalpa,Jalisco,42,2015,2021,7,6.0,Bajo
+Alto Lucero de Gutiérrez Barrios,Veracruz de Ignacio de la Llave,36,2016,2021,6,6.0,Bajo
+Villa de la Paz,San Luis Potosí,12,2019,2020,2,6.0,Bajo
+Tlalnelhuayocan,Veracruz de Ignacio de la Llave,41,2015,2021,7,5.857142857142857,Bajo
+Hueytamalco,Puebla,41,2015,2021,7,5.857142857142857,Bajo
+Villa González Ortega,Zacatecas,41,2015,2021,7,5.857142857142857,Bajo
+Florencio Villarreal,Guerrero,41,2015,2021,7,5.857142857142857,Bajo
+Queréndaro,Michoacán de Ocampo,41,2015,2021,7,5.857142857142857,Bajo
+Jamapa,Veracruz de Ignacio de la Llave,35,2016,2021,6,5.833333333333333,Bajo
+Hunucmá,Yucatán,29,2015,2019,5,5.8,Bajo
+San Pablo Huixtepec,Oaxaca,29,2017,2021,5,5.8,Bajo
+San Pedro Ixtlahuaca,Oaxaca,23,2018,2021,4,5.75,Bajo
+Santo Domingo Zanatepec,Oaxaca,23,2018,2021,4,5.75,Bajo
+Villa Hidalgo,Jalisco,40,2015,2021,7,5.714285714285714,Bajo
+Rosales,Chihuahua,40,2015,2021,7,5.714285714285714,Bajo
+Tecolutla,Veracruz de Ignacio de la Llave,40,2015,2021,7,5.714285714285714,Bajo
+Ascensión,Chihuahua,40,2015,2021,7,5.714285714285714,Bajo
+San Juan de Sabinas,Coahuila de Zaragoza,40,2015,2021,7,5.714285714285714,Bajo
+Cutzamala de Pinzón,Guerrero,40,2015,2021,7,5.714285714285714,Bajo
+San Rafael,Veracruz de Ignacio de la Llave,17,2019,2021,3,5.666666666666667,Bajo
+Ixcaquixtla,Puebla,34,2016,2021,6,5.666666666666667,Bajo
+Acajete,Veracruz de Ignacio de la Llave,28,2017,2021,5,5.6,Bajo
+Huasca de Ocampo,Hidalgo,39,2015,2021,7,5.571428571428571,Bajo
+Tocumbo,Michoacán de Ocampo,39,2015,2021,7,5.571428571428571,Bajo
+Soltepec,Puebla,39,2015,2021,7,5.571428571428571,Bajo
+Zaragoza,San Luis Potosí,39,2015,2021,7,5.571428571428571,Bajo
+Huaquechula,Puebla,38,2015,2021,7,5.428571428571429,Bajo
+Almoloya de Alquisiras,México,38,2015,2021,7,5.428571428571429,Bajo
+Calkiní,Campeche,38,2015,2021,7,5.428571428571429,Bajo
+San Francisco Tetlanohcan,Tlaxcala,38,2015,2021,7,5.428571428571429,Bajo
+Atzacan,Veracruz de Ignacio de la Llave,38,2015,2021,7,5.428571428571429,Bajo
+Tetepango,Hidalgo,38,2015,2021,7,5.428571428571429,Bajo
+Jiménez,Tamaulipas,38,2015,2021,7,5.428571428571429,Bajo
+El Barrio de la Soledad,Oaxaca,27,2017,2021,5,5.4,Bajo
+Castillo de Teayo,Veracruz de Ignacio de la Llave,32,2016,2021,6,5.333333333333333,Bajo
+Reyes Etla,Oaxaca,16,2018,2020,3,5.333333333333333,Bajo
+Unión de San Antonio,Jalisco,37,2015,2021,7,5.285714285714286,Bajo
+La Huerta,Jalisco,37,2015,2021,7,5.285714285714286,Bajo
+Pinal de Amoles,Querétaro,37,2015,2021,7,5.285714285714286,Bajo
+Lagunillas,Michoacán de Ocampo,37,2015,2021,7,5.285714285714286,Bajo
+Villa de Ramos,San Luis Potosí,37,2015,2021,7,5.285714285714286,Bajo
+San Antonino Castillo Velasco,Oaxaca,26,2017,2021,5,5.2,Bajo
+Tzintzuntzan,Michoacán de Ocampo,36,2015,2021,7,5.142857142857143,Bajo
+San Juan Guichicovi,Oaxaca,36,2015,2021,7,5.142857142857143,Bajo
+Paso de Ovejas,Veracruz de Ignacio de la Llave,36,2015,2021,7,5.142857142857143,Bajo
+Tepeojuma,Puebla,36,2015,2021,7,5.142857142857143,Bajo
+Amatepec,México,36,2015,2021,7,5.142857142857143,Bajo
+Huayacocotla,Veracruz de Ignacio de la Llave,36,2015,2021,7,5.142857142857143,Bajo
+Soyaló,Chiapas,36,2015,2021,7,5.142857142857143,Bajo
+Villa de Arista,San Luis Potosí,20,2018,2021,4,5.0,Bajo
+Chavinda,Michoacán de Ocampo,35,2015,2021,7,5.0,Bajo
+Sabinas Hidalgo,Nuevo León,35,2015,2021,7,5.0,Bajo
+Galeana,Nuevo León,35,2015,2021,7,5.0,Bajo
+San Miguel Soyaltepec,Oaxaca,25,2017,2021,5,5.0,Bajo
+Altamirano,Chiapas,35,2015,2021,7,5.0,Bajo
+Santa María Petapa,Oaxaca,25,2017,2021,5,5.0,Bajo
+Santiago Jamiltepec,Oaxaca,25,2017,2021,5,5.0,Bajo
+Buenavista de Cuéllar,Guerrero,35,2015,2021,7,5.0,Bajo
+Guadalupe Etla,Oaxaca,20,2018,2021,4,5.0,Bajo
+Alamos,Sonora,35,2015,2021,7,5.0,Bajo
+Quiriego,Sonora,5,2021,2021,1,5.0,Bajo
+San Dionisio Ocotepec,Oaxaca,20,2018,2021,4,5.0,Bajo
+Atzitzintla,Puebla,34,2015,2021,7,4.857142857142857,Bajo
+Parras,Coahuila de Zaragoza,34,2015,2021,7,4.857142857142857,Bajo
+San Juan Atenco,Puebla,34,2015,2021,7,4.857142857142857,Bajo
+La Concordia,Chiapas,34,2015,2021,7,4.857142857142857,Bajo
+Metepec,Hidalgo,34,2015,2021,7,4.857142857142857,Bajo
+Mascota,Jalisco,34,2015,2021,7,4.857142857142857,Bajo
+Chocamán,Veracruz de Ignacio de la Llave,29,2016,2021,6,4.833333333333333,Bajo
+Cuajinicuilapa,Guerrero,33,2015,2021,7,4.714285714285714,Bajo
+Noria de Ángeles,Zacatecas,33,2015,2021,7,4.714285714285714,Bajo
+Cerritos,San Luis Potosí,33,2015,2021,7,4.714285714285714,Bajo
+Acala,Chiapas,33,2015,2021,7,4.714285714285714,Bajo
+Nahuatzen,Michoacán de Ocampo,33,2015,2021,7,4.714285714285714,Bajo
+San Luis Acatlán,Guerrero,33,2015,2021,7,4.714285714285714,Bajo
+Marquelia,Guerrero,33,2015,2021,7,4.714285714285714,Bajo
+Molcaxac,Puebla,33,2015,2021,7,4.714285714285714,Bajo
+Tolimán,Querétaro,33,2015,2021,7,4.714285714285714,Bajo
+Chilcuautla,Hidalgo,32,2015,2021,7,4.571428571428571,Bajo
+Contepec,Michoacán de Ocampo,32,2015,2021,7,4.571428571428571,Bajo
+Tuxcueca,Jalisco,32,2015,2021,7,4.571428571428571,Bajo
+Nuevo Parangaricutiro,Michoacán de Ocampo,32,2015,2021,7,4.571428571428571,Bajo
+Panindícuaro,Michoacán de Ocampo,32,2015,2021,7,4.571428571428571,Bajo
+Talpa de Allende,Jalisco,32,2015,2021,7,4.571428571428571,Bajo
+Santa Apolonia Teacalco,Tlaxcala,32,2015,2021,7,4.571428571428571,Bajo
+Ruíz,Nayarit,27,2016,2021,6,4.5,Bajo
+Villa Hidalgo,San Luis Potosí,27,2016,2021,6,4.5,Bajo
+San Agustín Etla,Oaxaca,18,2018,2021,4,4.5,Bajo
+Santa María Coyotepec,Oaxaca,18,2018,2021,4,4.5,Bajo
+San Agustín Yatareni,Oaxaca,18,2018,2021,4,4.5,Bajo
+Erongarícuaro,Michoacán de Ocampo,31,2015,2021,7,4.428571428571429,Bajo
+Sultepec,México,31,2015,2021,7,4.428571428571429,Bajo
+Turicato,Michoacán de Ocampo,31,2015,2021,7,4.428571428571429,Bajo
+Jungapeo,Michoacán de Ocampo,31,2015,2021,7,4.428571428571429,Bajo
+Mier,Tamaulipas,31,2015,2021,7,4.428571428571429,Bajo
+Zapotlán del Rey,Jalisco,31,2015,2021,7,4.428571428571429,Bajo
+Ostuacán,Chiapas,31,2015,2021,7,4.428571428571429,Bajo
+Santa Cruz Quilehtla,Tlaxcala,31,2015,2021,7,4.428571428571429,Bajo
+Tepetitlán,Hidalgo,31,2015,2021,7,4.428571428571429,Bajo
+Tepechitlán,Zacatecas,31,2015,2021,7,4.428571428571429,Bajo
+Coahuayana,Michoacán de Ocampo,31,2015,2021,7,4.428571428571429,Bajo
+Mapimí,Durango,22,2017,2021,5,4.4,Bajo
+Huautla de Jiménez,Oaxaca,26,2016,2021,6,4.333333333333333,Bajo
+General Terán,Nuevo León,26,2016,2021,6,4.333333333333333,Bajo
+Tulcingo,Puebla,26,2016,2021,6,4.333333333333333,Bajo
+Hidalgo,Tamaulipas,30,2015,2021,7,4.285714285714286,Bajo
+Vega de Alatorre,Veracruz de Ignacio de la Llave,30,2015,2021,7,4.285714285714286,Bajo
+Monte Escobedo,Zacatecas,30,2015,2021,7,4.285714285714286,Bajo
+Santo Tomás,México,30,2015,2021,7,4.285714285714286,Bajo
+Moyahua de Estrada,Zacatecas,30,2015,2021,7,4.285714285714286,Bajo
+Chilchotla,Puebla,30,2015,2021,7,4.285714285714286,Bajo
+San Damián Texóloc,Tlaxcala,30,2015,2021,7,4.285714285714286,Bajo
+Francisco Z. Mena,Puebla,30,2015,2021,7,4.285714285714286,Bajo
+San Pablo Huitzo,Oaxaca,17,2018,2021,4,4.25,Bajo
+San Francisco Lachigoló,Oaxaca,17,2018,2021,4,4.25,Bajo
+Jonuta,Tabasco,17,2018,2021,4,4.25,Bajo
+San Francisco Telixtlahuaca,Oaxaca,17,2018,2021,4,4.25,Bajo
+Jilotepec,Veracruz de Ignacio de la Llave,21,2017,2021,5,4.2,Bajo
+San Diego de Alejandría,Jalisco,25,2015,2020,6,4.166666666666667,Bajo
+Tetela del Volcán,Morelos,29,2015,2021,7,4.142857142857143,Bajo
+Olinalá,Guerrero,29,2015,2021,7,4.142857142857143,Bajo
+Coroneo,Guanajuato,29,2015,2021,7,4.142857142857143,Bajo
+Cuautinchán,Puebla,29,2015,2021,7,4.142857142857143,Bajo
+San Juanito de Escobedo,Jalisco,29,2015,2021,7,4.142857142857143,Bajo
+Lázaro Cárdenas,Quintana Roo,29,2015,2021,7,4.142857142857143,Bajo
+Victoria,Guanajuato,29,2015,2021,7,4.142857142857143,Bajo
+Tianguismanalco,Puebla,29,2015,2021,7,4.142857142857143,Bajo
+Teocelo,Veracruz de Ignacio de la Llave,29,2015,2021,7,4.142857142857143,Bajo
+Ixhuatlán del Café,Veracruz de Ignacio de la Llave,29,2015,2021,7,4.142857142857143,Bajo
+Metztitlán,Hidalgo,29,2015,2021,7,4.142857142857143,Bajo
+Copándaro,Michoacán de Ocampo,29,2015,2021,7,4.142857142857143,Bajo
+Allende,Coahuila de Zaragoza,29,2015,2021,7,4.142857142857143,Bajo
+Ebano,San Luis Potosí,28,2015,2021,7,4.0,Bajo
+San Andrés Paxtlán,Oaxaca,8,2019,2020,2,4.0,Bajo
+Doctor Arroyo,Nuevo León,24,2016,2021,6,4.0,Bajo
+Benito Juárez,Guerrero,28,2015,2021,7,4.0,Bajo
+San Raymundo Jalpan,Oaxaca,16,2018,2021,4,4.0,Bajo
+Tumbalá,Chiapas,4,2021,2021,1,4.0,Bajo
+Cárdenas,San Luis Potosí,28,2015,2021,7,4.0,Bajo
+Guadalupe y Calvo,Chihuahua,28,2015,2021,7,4.0,Bajo
+Teúl de González Ortega,Zacatecas,28,2015,2021,7,4.0,Bajo
+Unión Hidalgo,Oaxaca,16,2018,2021,4,4.0,Bajo
+Suchiapa,Chiapas,28,2015,2021,7,4.0,Bajo
+Casimiro Castillo,Jalisco,27,2015,2021,7,3.857142857142857,Bajo
+Teteles de Avila Castillo,Puebla,27,2015,2021,7,3.857142857142857,Bajo
+Aquila,Michoacán de Ocampo,27,2015,2021,7,3.857142857142857,Bajo
+Tetecala,Morelos,27,2015,2021,7,3.857142857142857,Bajo
+Tabasco,Zacatecas,27,2015,2021,7,3.857142857142857,Bajo
+Ocampo,Michoacán de Ocampo,27,2015,2021,7,3.857142857142857,Bajo
+Santa Ana Maya,Michoacán de Ocampo,27,2015,2021,7,3.857142857142857,Bajo
+Nava,Coahuila de Zaragoza,27,2015,2021,7,3.857142857142857,Bajo
+Tancítaro,Michoacán de Ocampo,27,2015,2021,7,3.857142857142857,Bajo
+Teocuitatlán de Corona,Jalisco,27,2015,2021,7,3.857142857142857,Bajo
+Platón Sánchez,Veracruz de Ignacio de la Llave,23,2016,2021,6,3.8333333333333335,Bajo
+San Juan Cotzocón,Oaxaca,23,2015,2020,6,3.8333333333333335,Bajo
+Omitlán de Juárez,Hidalgo,19,2017,2021,5,3.8,Bajo
+Hopelchén,Campeche,19,2017,2021,5,3.8,Bajo
+San Juan Bautista Guelache,Oaxaca,15,2018,2021,4,3.75,Bajo
+Nazareno Etla,Oaxaca,15,2018,2021,4,3.75,Bajo
+San Pedro Totolápam,Oaxaca,15,2018,2021,4,3.75,Bajo
+Cuquío,Jalisco,26,2015,2021,7,3.7142857142857144,Bajo
+Canatlán,Durango,26,2015,2021,7,3.7142857142857144,Bajo
+Jalpan,Puebla,26,2015,2021,7,3.7142857142857144,Bajo
+Ocampo,Guanajuato,26,2015,2021,7,3.7142857142857144,Bajo
+Texcalyacac,México,26,2015,2021,7,3.7142857142857144,Bajo
+Uxpanapa,Veracruz de Ignacio de la Llave,26,2015,2021,7,3.7142857142857144,Bajo
+Almoloya,Hidalgo,26,2015,2021,7,3.7142857142857144,Bajo
+Genaro Codina,Zacatecas,26,2015,2021,7,3.7142857142857144,Bajo
+Unión de Tula,Jalisco,26,2015,2021,7,3.7142857142857144,Bajo
+Nombre de Dios,Durango,26,2015,2021,7,3.7142857142857144,Bajo
+San Pedro y San Pablo Teposcolula,Oaxaca,11,2018,2020,3,3.6666666666666665,Bajo
+Tlalnepantla,Morelos,22,2015,2020,6,3.6666666666666665,Bajo
+Salto de Agua,Chiapas,22,2016,2021,6,3.6666666666666665,Bajo
+Mezquital,Durango,18,2017,2021,5,3.6,Bajo
+Rafael Lucio,Veracruz de Ignacio de la Llave,18,2017,2021,5,3.6,Bajo
+Tepetongo,Zacatecas,25,2015,2021,7,3.5714285714285716,Bajo
+San Gabriel,Jalisco,25,2015,2021,7,3.5714285714285716,Bajo
+Jiménez,Michoacán de Ocampo,25,2015,2021,7,3.5714285714285716,Bajo
+San Lucas,Michoacán de Ocampo,25,2015,2021,7,3.5714285714285716,Bajo
+Huitziltepec,Puebla,25,2015,2021,7,3.5714285714285716,Bajo
+Ajuchitlán del Progreso,Guerrero,25,2015,2021,7,3.5714285714285716,Bajo
+San Lorenzo Axocomanitla,Tlaxcala,25,2015,2021,7,3.5714285714285716,Bajo
+San José Miahuatlán,Puebla,25,2015,2021,7,3.5714285714285716,Bajo
+Villa Aldama,Veracruz de Ignacio de la Llave,25,2015,2021,7,3.5714285714285716,Bajo
+Terrenate,Tlaxcala,25,2015,2021,7,3.5714285714285716,Bajo
+San Pablo Villa de Mitla,Oaxaca,14,2018,2021,4,3.5,Bajo
+Domingo Arenas,Puebla,21,2015,2020,6,3.5,Bajo
+San Marcos Arteaga,Oaxaca,7,2020,2021,2,3.5,Bajo
+Santa María Xadani,Oaxaca,14,2018,2021,4,3.5,Bajo
+Teotitlán de Flores Magón,Oaxaca,14,2018,2021,4,3.5,Bajo
+Ocampo,Tamaulipas,24,2015,2021,7,3.4285714285714284,Bajo
+Numarán,Michoacán de Ocampo,24,2015,2021,7,3.4285714285714284,Bajo
+Cosautlán de Carvajal,Veracruz de Ignacio de la Llave,24,2015,2021,7,3.4285714285714284,Bajo
+Poanas,Durango,24,2015,2021,7,3.4285714285714284,Bajo
+Atoyatempan,Puebla,24,2015,2021,7,3.4285714285714284,Bajo
+Aquismón,San Luis Potosí,10,2019,2021,3,3.3333333333333335,Bajo
+Ocampo,Chihuahua,20,2015,2020,6,3.3333333333333335,Bajo
+Tila,Chiapas,20,2016,2021,6,3.3333333333333335,Bajo
+Tenango de Doria,Hidalgo,20,2016,2021,6,3.3333333333333335,Bajo
+Mazapiltepec de Juárez,Puebla,23,2015,2021,7,3.2857142857142856,Bajo
+Calakmul,Campeche,23,2015,2021,7,3.2857142857142856,Bajo
+Cardonal,Hidalgo,23,2015,2021,7,3.2857142857142856,Bajo
+Tampico Alto,Veracruz de Ignacio de la Llave,23,2015,2021,7,3.2857142857142856,Bajo
+Penjamillo,Michoacán de Ocampo,23,2015,2021,7,3.2857142857142856,Bajo
+Cazones de Herrera,Veracruz de Ignacio de la Llave,23,2015,2021,7,3.2857142857142856,Bajo
+Atlangatepec,Tlaxcala,23,2015,2021,7,3.2857142857142856,Bajo
+Mazatepec,Morelos,23,2015,2021,7,3.2857142857142856,Bajo
+San Blas Atempa,Oaxaca,13,2018,2021,4,3.25,Bajo
+San Pedro Tapanatepec,Oaxaca,13,2018,2021,4,3.25,Bajo
+Santiago Suchilquitongo,Oaxaca,13,2018,2021,4,3.25,Bajo
+Santa Ana Zegache,Oaxaca,13,2018,2021,4,3.25,Bajo
+Villa de Guadalupe,San Luis Potosí,13,2018,2021,4,3.25,Bajo
+Ánimas Trujano,Oaxaca,13,2018,2021,4,3.25,Bajo
+Candelaria Loxicha,Oaxaca,13,2018,2021,4,3.25,Bajo
+Villa de Tamazulápam del Progreso,Oaxaca,13,2018,2021,4,3.25,Bajo
+Ayahualulco,Veracruz de Ignacio de la Llave,19,2016,2021,6,3.1666666666666665,Bajo
+Morelos,Michoacán de Ocampo,19,2015,2020,6,3.1666666666666665,Bajo
+Valle de Zaragoza,Chihuahua,19,2015,2020,6,3.1666666666666665,Bajo
+Piaxtla,Puebla,22,2015,2021,7,3.142857142857143,Bajo
+Muñoz de Domingo Arenas,Tlaxcala,22,2015,2021,7,3.142857142857143,Bajo
+General Bravo,Nuevo León,22,2015,2021,7,3.142857142857143,Bajo
+Ahuacatlán,Nayarit,22,2015,2021,7,3.142857142857143,Bajo
+Coatlán del Río,Morelos,22,2015,2021,7,3.142857142857143,Bajo
+Pueblo Nuevo Solistahuacán,Chiapas,22,2015,2021,7,3.142857142857143,Bajo
+Benemérito de las Américas,Chiapas,22,2015,2021,7,3.142857142857143,Bajo
+Chacaltianguis,Veracruz de Ignacio de la Llave,22,2015,2021,7,3.142857142857143,Bajo
+San Miguel Peras,Oaxaca,3,2021,2021,1,3.0,Bajo
+Santa Catarina Juquila,Oaxaca,15,2017,2021,5,3.0,Bajo
+Xilitla,San Luis Potosí,21,2015,2021,7,3.0,Bajo
+Simojovel,Chiapas,18,2016,2021,6,3.0,Bajo
+Casas Grandes,Chihuahua,18,2016,2021,6,3.0,Bajo
+Ecatzingo,México,18,2015,2020,6,3.0,Bajo
+Jitotol,Chiapas,21,2015,2021,7,3.0,Bajo
+Tlacolulan,Veracruz de Ignacio de la Llave,3,2017,2017,1,3.0,Bajo
+Chicomuselo,Chiapas,18,2015,2020,6,3.0,Bajo
+Ocampo,Durango,15,2017,2021,5,3.0,Bajo
+Tanquián de Escobedo,San Luis Potosí,21,2015,2021,7,3.0,Bajo
+Villa Juárez,San Luis Potosí,12,2018,2021,4,3.0,Bajo
+Totutla,Veracruz de Ignacio de la Llave,21,2015,2021,7,3.0,Bajo
+Venado,San Luis Potosí,12,2018,2021,4,3.0,Bajo
+Techaluta de Montenegro,Jalisco,18,2016,2021,6,3.0,Bajo
+Cañitas de Felipe Pescador,Zacatecas,21,2015,2021,7,3.0,Bajo
+San Andrés Sinaxtla,Oaxaca,3,2019,2019,1,3.0,Bajo
+Tepeyahualco de Cuauhtémoc,Puebla,18,2016,2021,6,3.0,Bajo
+Atenango del Río,Guerrero,15,2017,2021,5,3.0,Bajo
+San Carlos Yautepec,Oaxaca,9,2018,2020,3,3.0,Bajo
+Pahuatlán,Puebla,21,2015,2021,7,3.0,Bajo
+Aquila,Veracruz de Ignacio de la Llave,3,2017,2017,1,3.0,Bajo
+San José Teacalco,Tlaxcala,21,2015,2021,7,3.0,Bajo
+Chahuites,Oaxaca,12,2018,2021,4,3.0,Bajo
+Cuaxomulco,Tlaxcala,20,2015,2021,7,2.857142857142857,Bajo
+Cocula,Guerrero,20,2015,2021,7,2.857142857142857,Bajo
+Santa Bárbara,Chihuahua,20,2015,2021,7,2.857142857142857,Bajo
+Ixhuatlán de Madero,Veracruz de Ignacio de la Llave,20,2015,2021,7,2.857142857142857,Bajo
+Chapantongo,Hidalgo,20,2015,2021,7,2.857142857142857,Bajo
+Tlaola,Puebla,20,2015,2021,7,2.857142857142857,Bajo
+Allende,Chihuahua,20,2015,2021,7,2.857142857142857,Bajo
+Santa Clara,Durango,20,2015,2021,7,2.857142857142857,Bajo
+Tecalitlán,Jalisco,20,2015,2021,7,2.857142857142857,Bajo
+Angangueo,Michoacán de Ocampo,20,2015,2021,7,2.857142857142857,Bajo
+Amatenango de la Frontera,Chiapas,20,2015,2021,7,2.857142857142857,Bajo
+Anáhuac,Nuevo León,20,2015,2021,7,2.857142857142857,Bajo
+Huaniqueo,Michoacán de Ocampo,20,2015,2021,7,2.857142857142857,Bajo
+Hueyapan,Puebla,20,2015,2021,7,2.857142857142857,Bajo
+Tierra Nueva,San Luis Potosí,17,2016,2021,6,2.8333333333333335,Bajo
+Tuzantla,Michoacán de Ocampo,17,2016,2021,6,2.8333333333333335,Bajo
+Jolalpan,Puebla,17,2015,2020,6,2.8333333333333335,Bajo
+Ixhuacán de los Reyes,Veracruz de Ignacio de la Llave,17,2016,2021,6,2.8333333333333335,Bajo
+El Limón,Jalisco,14,2016,2020,5,2.8,Bajo
+Hidalgo,Nuevo León,14,2017,2021,5,2.8,Bajo
+Nejapa de Madero,Oaxaca,11,2018,2021,4,2.75,Bajo
+San Juan Bautista Cuicatlán,Oaxaca,11,2018,2021,4,2.75,Bajo
+Santa María Jalapa del Marqués,Oaxaca,11,2018,2021,4,2.75,Bajo
+San Felipe Tejalápam,Oaxaca,11,2018,2021,4,2.75,Bajo
+Otros Municipios,Sonora,11,2015,2018,4,2.75,Bajo
+Mariscala de Juárez,Oaxaca,11,2018,2021,4,2.75,Bajo
+Huiramba,Michoacán de Ocampo,19,2015,2021,7,2.7142857142857144,Bajo
+Buenaventura,Chihuahua,19,2015,2021,7,2.7142857142857144,Bajo
+Santiago Maravatío,Guanajuato,19,2015,2021,7,2.7142857142857144,Bajo
+Hostotipaquillo,Jalisco,19,2015,2021,7,2.7142857142857144,Bajo
+Charapan,Michoacán de Ocampo,19,2015,2021,7,2.7142857142857144,Bajo
+Rodeo,Durango,19,2015,2021,7,2.7142857142857144,Bajo
+General Francisco R. Murguía,Zacatecas,19,2015,2021,7,2.7142857142857144,Bajo
+Zacualpan,México,19,2015,2021,7,2.7142857142857144,Bajo
+El Parral,Chiapas,8,2019,2021,3,2.6666666666666665,Bajo
+Vanegas,San Luis Potosí,8,2019,2021,3,2.6666666666666665,Bajo
+Mineral del Chico,Hidalgo,16,2016,2021,6,2.6666666666666665,Bajo
+San Andrés Huaxpaltepec,Oaxaca,8,2019,2021,3,2.6666666666666665,Bajo
+Tecomatlán,Puebla,16,2015,2020,6,2.6666666666666665,Bajo
+San Jerónimo Tlacochahuaya,Oaxaca,8,2019,2021,3,2.6666666666666665,Bajo
+Atlapexco,Hidalgo,13,2017,2021,5,2.6,Bajo
+Juchitlán,Jalisco,13,2017,2021,5,2.6,Bajo
+Zirándaro,Guerrero,18,2015,2021,7,2.5714285714285716,Bajo
+Tlapanalá,Puebla,18,2015,2021,7,2.5714285714285716,Bajo
+Metapa,Chiapas,18,2015,2021,7,2.5714285714285716,Bajo
+Zautla,Puebla,18,2015,2021,7,2.5714285714285716,Bajo
+Sahuaripa,Sonora,18,2015,2021,7,2.5714285714285716,Bajo
+Peñamiller,Querétaro,18,2015,2021,7,2.5714285714285716,Bajo
+Méndez,Tamaulipas,18,2015,2021,7,2.5714285714285716,Bajo
+Villa Purificación,Jalisco,18,2015,2021,7,2.5714285714285716,Bajo
+Charcas,San Luis Potosí,18,2015,2021,7,2.5714285714285716,Bajo
+Ixtacamaxtitlán,Puebla,18,2015,2021,7,2.5714285714285716,Bajo
+Matlapa,San Luis Potosí,10,2018,2021,4,2.5,Bajo
+Honey,Puebla,15,2015,2020,6,2.5,Bajo
+Epitacio Huerta,Michoacán de Ocampo,15,2015,2020,6,2.5,Bajo
+San Lucas Ojitlán,Oaxaca,15,2016,2021,6,2.5,Bajo
+Armadillo de los Infante,San Luis Potosí,10,2018,2021,4,2.5,Bajo
+Quimixtlán,Puebla,15,2016,2021,6,2.5,Bajo
+Tlaltetela,Veracruz de Ignacio de la Llave,15,2016,2021,6,2.5,Bajo
+Chapulhuacán,Hidalgo,15,2016,2021,6,2.5,Bajo
+San Pedro y San Pablo Ayutla,Oaxaca,5,2018,2019,2,2.5,Bajo
+Tepexco,Puebla,17,2015,2021,7,2.4285714285714284,Bajo
+Pitiquito,Sonora,17,2015,2021,7,2.4285714285714284,Bajo
+Tlatlaya,México,17,2015,2021,7,2.4285714285714284,Bajo
+Atoyac,Jalisco,17,2015,2021,7,2.4285714285714284,Bajo
+Tiquicheo de Nicolás Romero,Michoacán de Ocampo,17,2015,2021,7,2.4285714285714284,Bajo
+Acateno,Puebla,17,2015,2021,7,2.4285714285714284,Bajo
+Cojumatlán de Régules,Michoacán de Ocampo,17,2015,2021,7,2.4285714285714284,Bajo
+Santa Catarina,Guanajuato,17,2015,2021,7,2.4285714285714284,Bajo
+Tocatlán,Tlaxcala,17,2015,2021,7,2.4285714285714284,Bajo
+La Independencia,Chiapas,17,2015,2021,7,2.4285714285714284,Bajo
+Benjamín Hill,Sonora,17,2015,2021,7,2.4285714285714284,Bajo
+Janos,Chihuahua,17,2015,2021,7,2.4285714285714284,Bajo
+Ahumada,Chihuahua,17,2015,2021,7,2.4285714285714284,Bajo
+San Jerónimo Zacualpan,Tlaxcala,17,2015,2021,7,2.4285714285714284,Bajo
+Jaumave,Tamaulipas,17,2015,2021,7,2.4285714285714284,Bajo
+Rayón,Chiapas,12,2016,2020,5,2.4,Bajo
+Santiago Sochiapan,Veracruz de Ignacio de la Llave,12,2017,2021,5,2.4,Bajo
+Ixtacomitán,Chiapas,12,2016,2020,5,2.4,Bajo
+Huanusco,Zacatecas,12,2017,2021,5,2.4,Bajo
+Cabo Corrientes,Jalisco,14,2016,2021,6,2.3333333333333335,Bajo
+San Juan Mazatlán,Oaxaca,7,2019,2021,3,2.3333333333333335,Bajo
+Saltabarranca,Veracruz de Ignacio de la Llave,14,2016,2021,6,2.3333333333333335,Bajo
+Minatitlán,Colima,14,2015,2020,6,2.3333333333333335,Bajo
+Nautla,Veracruz de Ignacio de la Llave,14,2016,2021,6,2.3333333333333335,Bajo
+Tzimol,Chiapas,14,2016,2021,6,2.3333333333333335,Bajo
+Huehuetlán el Chico,Puebla,14,2015,2020,6,2.3333333333333335,Bajo
+Socoltenango,Chiapas,14,2016,2021,6,2.3333333333333335,Bajo
+Santiago Huajolotitlán,Oaxaca,7,2018,2020,3,2.3333333333333335,Bajo
+Mixtla,Puebla,14,2015,2020,6,2.3333333333333335,Bajo
+Xochitlán Todos Santos,Puebla,14,2015,2020,6,2.3333333333333335,Bajo
+Igualapa,Guerrero,14,2016,2021,6,2.3333333333333335,Bajo
+Amatitlán,Veracruz de Ignacio de la Llave,16,2015,2021,7,2.2857142857142856,Bajo
+Copala,Guerrero,16,2015,2021,7,2.2857142857142856,Bajo
+San Miguel Totolapan,Guerrero,16,2015,2021,7,2.2857142857142856,Bajo
+Cerro de San Pedro,San Luis Potosí,16,2015,2021,7,2.2857142857142856,Bajo
+Yaonáhuac,Puebla,16,2015,2021,7,2.2857142857142856,Bajo
+San Buenaventura,Coahuila de Zaragoza,16,2015,2021,7,2.2857142857142856,Bajo
+Senguio,Michoacán de Ocampo,16,2015,2021,7,2.2857142857142856,Bajo
+Huejúcar,Jalisco,16,2015,2021,7,2.2857142857142856,Bajo
+Xalpatláhuac,Guerrero,16,2015,2021,7,2.2857142857142856,Bajo
+Tlilapan,Veracruz de Ignacio de la Llave,16,2015,2021,7,2.2857142857142856,Bajo
+Tzitzio,Michoacán de Ocampo,16,2015,2021,7,2.2857142857142856,Bajo
+Jilotlán de los Dolores,Jalisco,9,2016,2019,4,2.25,Bajo
+Villa Sola de Vega,Oaxaca,9,2018,2021,4,2.25,Bajo
+San Juan Cacahuatepec,Oaxaca,9,2018,2021,4,2.25,Bajo
+Gómez Farías,Tamaulipas,9,2015,2018,4,2.25,Bajo
+Churumuco,Michoacán de Ocampo,11,2017,2021,5,2.2,Bajo
+Cualác,Guerrero,11,2015,2019,5,2.2,Bajo
+Coacoatzintla,Veracruz de Ignacio de la Llave,11,2017,2021,5,2.2,Bajo
+Tetipac,Guerrero,11,2016,2020,5,2.2,Bajo
+Copalillo,Guerrero,13,2015,2020,6,2.1666666666666665,Bajo
+Lafragua,Puebla,13,2015,2020,6,2.1666666666666665,Bajo
+Catorce,San Luis Potosí,13,2016,2021,6,2.1666666666666665,Bajo
+Tenamaxtlán,Jalisco,13,2015,2020,6,2.1666666666666665,Bajo
+Amatlán de Cañas,Nayarit,13,2016,2021,6,2.1666666666666665,Bajo
+Copainalá,Chiapas,13,2016,2021,6,2.1666666666666665,Bajo
+Atlixtac,Guerrero,13,2015,2020,6,2.1666666666666665,Bajo
+Huejuquilla el Alto,Jalisco,15,2015,2021,7,2.142857142857143,Bajo
+Luvianos,México,15,2015,2021,7,2.142857142857143,Bajo
+Apozol,Zacatecas,15,2015,2021,7,2.142857142857143,Bajo
+Tlanchinol,Hidalgo,15,2015,2021,7,2.142857142857143,Bajo
+Tecoanapa,Guerrero,15,2015,2021,7,2.142857142857143,Bajo
+Santa María del Oro,Nayarit,15,2015,2021,7,2.142857142857143,Bajo
+Alpoyeca,Guerrero,15,2015,2021,7,2.142857142857143,Bajo
+Altar,Sonora,15,2015,2021,7,2.142857142857143,Bajo
+Epatlán,Puebla,15,2015,2021,7,2.142857142857143,Bajo
+San Juan del Río,Durango,15,2015,2021,7,2.142857142857143,Bajo
+Palmillas,Tamaulipas,4,2016,2017,2,2.0,Bajo
+Santa Gertrudis,Oaxaca,6,2018,2020,3,2.0,Bajo
+La Misión,Hidalgo,2,2021,2021,1,2.0,Bajo
+Soyopa,Sonora,2,2020,2020,1,2.0,Bajo
+Mecayapan,Veracruz de Ignacio de la Llave,14,2015,2021,7,2.0,Bajo
+Tonayán,Veracruz de Ignacio de la Llave,4,2019,2020,2,2.0,Bajo
+San Bernardo Mixtepec,Oaxaca,2,2020,2020,1,2.0,Bajo
+Palizada,Campeche,6,2019,2021,3,2.0,Bajo
+Santa Lucía Ocotlán,Oaxaca,4,2018,2019,2,2.0,Bajo
+Pajapan,Veracruz de Ignacio de la Llave,4,2018,2019,2,2.0,Bajo
+Tenabo,Campeche,2,2019,2019,1,2.0,Bajo
+Santo Tomás Tamazulapan,Oaxaca,8,2018,2021,4,2.0,Bajo
+San Jerónimo Silacayoapilla,Oaxaca,2,2019,2019,1,2.0,Bajo
+Santa María Chilchotla,Oaxaca,2,2019,2019,1,2.0,Bajo
+Benito Juárez,Tlaxcala,14,2015,2021,7,2.0,Bajo
+Lagunillas,San Luis Potosí,2,2021,2021,1,2.0,Bajo
+San Jerónimo Tecuanipan,Puebla,14,2015,2021,7,2.0,Bajo
+Tatahuicapan de Juárez,Veracruz de Ignacio de la Llave,10,2017,2021,5,2.0,Bajo
+Santo Domingo Tepuxtepec,Oaxaca,2,2018,2018,1,2.0,Bajo
+Los Ramones,Nuevo León,14,2015,2021,7,2.0,Bajo
+Tepelmeme Villa de Morelos,Oaxaca,4,2019,2020,2,2.0,Bajo
+Huehuetlán el Grande,Puebla,8,2017,2020,4,2.0,Bajo
+Naranjal,Veracruz de Ignacio de la Llave,4,2017,2018,2,2.0,Bajo
+San Lorenzo,Oaxaca,2,2018,2018,1,2.0,Bajo
+Aquiles Serdán,Chihuahua,14,2015,2021,7,2.0,Bajo
+Coapilla,Chiapas,6,2019,2021,3,2.0,Bajo
+Naupan,Puebla,4,2018,2019,2,2.0,Bajo
+Moctezuma,Sonora,4,2017,2018,2,2.0,Bajo
+San Juan Ozolotepec,Oaxaca,2,2020,2020,1,2.0,Bajo
+Zacazonapan,México,2,2021,2021,1,2.0,Bajo
+San Joaquín,Querétaro,12,2016,2021,6,2.0,Bajo
+Sierra Mojada,Coahuila de Zaragoza,2,2015,2015,1,2.0,Bajo
+Seybaplaya,Campeche,2,2021,2021,1,2.0,Bajo
+Nauzontla,Puebla,2,2016,2016,1,2.0,Bajo
+Tlanepantla,Puebla,14,2015,2021,7,2.0,Bajo
+Chínipas,Chihuahua,2,2018,2018,1,2.0,Bajo
+Santo Domingo Petapa,Oaxaca,4,2018,2019,2,2.0,Bajo
+Santiago Matatlán,Oaxaca,10,2017,2021,5,2.0,Bajo
+Hecelchakán,Campeche,10,2017,2021,5,2.0,Bajo
+Santiago Tlazoyaltepec,Oaxaca,2,2020,2020,1,2.0,Bajo
+San José Independencia,Oaxaca,2,2019,2019,1,2.0,Bajo
+Larráinzar,Chiapas,14,2015,2021,7,2.0,Bajo
+Xochiltepec,Puebla,2,2017,2017,1,2.0,Bajo
+San Juan Guelavía,Oaxaca,6,2019,2021,3,2.0,Bajo
+Tumbiscatío,Michoacán de Ocampo,2,2016,2016,1,2.0,Bajo
+Coxcatlán,San Luis Potosí,6,2019,2021,3,2.0,Bajo
+Santiago Astata,Oaxaca,6,2018,2020,3,2.0,Bajo
+San Miguel de Horcasitas,Sonora,2,2018,2018,1,2.0,Bajo
+Ixcamilpa de Guerrero,Puebla,2,2018,2018,1,2.0,Bajo
+La Compañía,Oaxaca,2,2019,2019,1,2.0,Bajo
+Doctor Coss,Nuevo León,4,2020,2021,2,2.0,Bajo
+San Miguel Tlacotepec,Oaxaca,2,2019,2019,1,2.0,Bajo
+Morelos,Coahuila de Zaragoza,14,2015,2021,7,2.0,Bajo
+Santiago Textitlán,Oaxaca,2,2021,2021,1,2.0,Bajo
+San Juan Colorado,Oaxaca,4,2019,2020,2,2.0,Bajo
+Huajicori,Nayarit,6,2019,2021,3,2.0,Bajo
+Cuatro Ciénegas,Coahuila de Zaragoza,14,2015,2021,7,2.0,Bajo
+Tanlajás,San Luis Potosí,14,2015,2021,7,2.0,Bajo
+Guadalcázar,San Luis Potosí,14,2015,2021,7,2.0,Bajo
+Xochiatipan,Hidalgo,2,2016,2016,1,2.0,Bajo
+Atexcal,Puebla,8,2017,2020,4,2.0,Bajo
+San Pedro Apóstol,Oaxaca,4,2018,2019,2,2.0,Bajo
+Ocotepec,Puebla,12,2016,2021,6,2.0,Bajo
+Sáric,Sonora,2,2016,2016,1,2.0,Bajo
+San Juan Lachao,Oaxaca,2,2019,2019,1,2.0,Bajo
+Guachinango,Jalisco,10,2016,2020,5,2.0,Bajo
+Tlachichilco,Veracruz de Ignacio de la Llave,2,2021,2021,1,2.0,Bajo
+Zapotitlán Palmas,Oaxaca,2,2021,2021,1,2.0,Bajo
+Concepción de Buenos Aires,Jalisco,13,2015,2021,7,1.8571428571428572,Bajo
+Marcos Castellanos,Michoacán de Ocampo,13,2015,2021,7,1.8571428571428572,Bajo
+Tierra Blanca,Guanajuato,13,2015,2021,7,1.8571428571428572,Bajo
+Doctor González,Nuevo León,13,2015,2021,7,1.8571428571428572,Bajo
+Lázaro Cárdenas,Tlaxcala,13,2015,2021,7,1.8571428571428572,Bajo
+Chalma,Veracruz de Ignacio de la Llave,13,2015,2021,7,1.8571428571428572,Bajo
+Pánuco de Coronado,Durango,13,2015,2021,7,1.8571428571428572,Bajo
+Marín,Nuevo León,13,2015,2021,7,1.8571428571428572,Bajo
+Tamiahua,Veracruz de Ignacio de la Llave,13,2015,2021,7,1.8571428571428572,Bajo
+Chamula,Chiapas,13,2015,2021,7,1.8571428571428572,Bajo
+Zacualpan de Amilpas,Morelos,13,2015,2021,7,1.8571428571428572,Bajo
+Tlacojalpan,Veracruz de Ignacio de la Llave,11,2016,2021,6,1.8333333333333333,Bajo
+San Francisco del Oro,Chihuahua,11,2016,2021,6,1.8333333333333333,Bajo
+Juchitán,Guerrero,11,2015,2020,6,1.8333333333333333,Bajo
+Tochimilco,Puebla,11,2016,2021,6,1.8333333333333333,Bajo
+Otatitlán,Veracruz de Ignacio de la Llave,11,2016,2021,6,1.8333333333333333,Bajo
+Zozocolco de Hidalgo,Veracruz de Ignacio de la Llave,11,2016,2021,6,1.8333333333333333,Bajo
+San Nicolás de los Ranchos,Puebla,11,2015,2020,6,1.8333333333333333,Bajo
+Tequila,Veracruz de Ignacio de la Llave,9,2016,2020,5,1.8,Bajo
+San Sebastián Tecomaxtlahuaca,Oaxaca,9,2017,2021,5,1.8,Bajo
+Cañadas de Obregón,Jalisco,9,2017,2021,5,1.8,Bajo
+Landa de Matamoros,Querétaro,9,2015,2019,5,1.8,Bajo
+Angel Albino Corzo,Chiapas,9,2015,2019,5,1.8,Bajo
+Ahuacuotzingo,Guerrero,7,2017,2020,4,1.75,Bajo
+San Andrés Zautla,Oaxaca,7,2018,2021,4,1.75,Bajo
+Ayoquezco de Aldama,Oaxaca,7,2018,2021,4,1.75,Bajo
+Ciénega de Zimatlán,Oaxaca,7,2018,2021,4,1.75,Bajo
+Tzicatlacoyan,Puebla,7,2017,2020,4,1.75,Bajo
+Agua Blanca de Iturbide,Hidalgo,7,2018,2021,4,1.75,Bajo
+Hidalgotitlán,Veracruz de Ignacio de la Llave,7,2018,2021,4,1.75,Bajo
+Soteapan,Veracruz de Ignacio de la Llave,7,2018,2021,4,1.75,Bajo
+San Dionisio del Mar,Oaxaca,7,2018,2021,4,1.75,Bajo
+Chinantla,Puebla,12,2015,2021,7,1.7142857142857142,Bajo
+Nocupétaro,Michoacán de Ocampo,12,2015,2021,7,1.7142857142857142,Bajo
+China,Nuevo León,12,2015,2021,7,1.7142857142857142,Bajo
+El Oro,Durango,12,2015,2021,7,1.7142857142857142,Bajo
+San Martín Chalchicuautla,San Luis Potosí,12,2015,2021,7,1.7142857142857142,Bajo
+Ayotoxco de Guerrero,Puebla,12,2015,2021,7,1.7142857142857142,Bajo
+Axtla de Terrazas,San Luis Potosí,12,2015,2021,7,1.7142857142857142,Bajo
+La Manzanilla de la Paz,Jalisco,12,2015,2021,7,1.7142857142857142,Bajo
+Chinampa de Gorostiza,Veracruz de Ignacio de la Llave,12,2015,2021,7,1.7142857142857142,Bajo
+Tlahualilo,Durango,12,2015,2021,7,1.7142857142857142,Bajo
+Tepehuanes,Durango,12,2015,2021,7,1.7142857142857142,Bajo
+Ixtapan del Oro,México,12,2015,2021,7,1.7142857142857142,Bajo
+Santiago Chazumba,Oaxaca,5,2018,2020,3,1.6666666666666667,Bajo
+Magdalena Ocotlán,Oaxaca,5,2018,2020,3,1.6666666666666667,Bajo
+Santiago Choápam,Oaxaca,5,2017,2019,3,1.6666666666666667,Bajo
+Petlalcingo,Puebla,10,2016,2021,6,1.6666666666666667,Bajo
+Ixtlán de Juárez,Oaxaca,5,2017,2019,3,1.6666666666666667,Bajo
+San Miguel Tlacamama,Oaxaca,5,2018,2020,3,1.6666666666666667,Bajo
+San Felipe Orizatlán,Hidalgo,10,2016,2021,6,1.6666666666666667,Bajo
+Ixtlahuacán,Colima,10,2016,2021,6,1.6666666666666667,Bajo
+San Agustín Metzquititlán,Hidalgo,10,2015,2020,6,1.6666666666666667,Bajo
+Leonardo Bravo,Guerrero,10,2016,2021,6,1.6666666666666667,Bajo
+Magdalena Tequisistlán,Oaxaca,5,2018,2020,3,1.6666666666666667,Bajo
+Citlaltépetl,Veracruz de Ignacio de la Llave,10,2016,2021,6,1.6666666666666667,Bajo
+Alcozauca de Guerrero,Guerrero,10,2015,2020,6,1.6666666666666667,Bajo
+Ayutla,Jalisco,10,2015,2020,6,1.6666666666666667,Bajo
+Tapilula,Chiapas,10,2015,2020,6,1.6666666666666667,Bajo
+San Bartolo Tutotepec,Hidalgo,5,2018,2020,3,1.6666666666666667,Bajo
+San Mateo Río Hondo,Oaxaca,5,2019,2021,3,1.6666666666666667,Bajo
+Cuautitlán de García Barragán,Jalisco,10,2016,2021,6,1.6666666666666667,Bajo
+San Francisco Ixhuatán,Oaxaca,5,2019,2021,3,1.6666666666666667,Bajo
+Chicoasén,Chiapas,10,2015,2020,6,1.6666666666666667,Bajo
+El Naranjo,San Luis Potosí,8,2017,2021,5,1.6,Bajo
+Soledad Etla,Oaxaca,8,2017,2021,5,1.6,Bajo
+Namiquipa,Chihuahua,8,2016,2020,5,1.6,Bajo
+Matamoros,Chihuahua,8,2017,2021,5,1.6,Bajo
+San Juan Mixtepec Distrito 08,Oaxaca,8,2017,2021,5,1.6,Bajo
+Tepetzintla,Veracruz de Ignacio de la Llave,8,2017,2021,5,1.6,Bajo
+Carácuaro,Michoacán de Ocampo,11,2015,2021,7,1.5714285714285714,Bajo
+Ignacio Zaragoza,Chihuahua,11,2015,2021,7,1.5714285714285714,Bajo
+Angamacutiro,Michoacán de Ocampo,11,2015,2021,7,1.5714285714285714,Bajo
+Amacueca,Jalisco,11,2015,2021,7,1.5714285714285714,Bajo
+Jacala de Ledezma,Hidalgo,11,2015,2021,7,1.5714285714285714,Bajo
+Zentla,Veracruz de Ignacio de la Llave,11,2015,2021,7,1.5714285714285714,Bajo
+Zumpahuacán,México,11,2015,2021,7,1.5714285714285714,Bajo
+Zinacantán,Chiapas,11,2015,2021,7,1.5714285714285714,Bajo
+Balleza,Chihuahua,11,2015,2021,7,1.5714285714285714,Bajo
+Atolinga,Zacatecas,11,2015,2021,7,1.5714285714285714,Bajo
+Solosuchiapa,Chiapas,11,2015,2021,7,1.5714285714285714,Bajo
+Pantepec,Puebla,11,2015,2021,7,1.5714285714285714,Bajo
+General Cepeda,Coahuila de Zaragoza,11,2015,2021,7,1.5714285714285714,Bajo
+Yecuatla,Veracruz de Ignacio de la Llave,11,2015,2021,7,1.5714285714285714,Bajo
+Camarón de Tejeda,Veracruz de Ignacio de la Llave,11,2015,2021,7,1.5714285714285714,Bajo
+Trinidad García de la Cadena,Zacatecas,11,2015,2021,7,1.5714285714285714,Bajo
+Ciudad del Maíz,San Luis Potosí,11,2015,2021,7,1.5714285714285714,Bajo
+Momax,Zacatecas,11,2015,2021,7,1.5714285714285714,Bajo
+San Baltazar Chichicápam,Oaxaca,3,2020,2021,2,1.5,Bajo
+Jala,Nayarit,6,2018,2021,4,1.5,Bajo
+San Francisco del Mar,Oaxaca,3,2018,2019,2,1.5,Bajo
+Ixmatlahuacan,Veracruz de Ignacio de la Llave,9,2016,2021,6,1.5,Bajo
+Santo Domingo Yanhuitlán,Oaxaca,6,2018,2021,4,1.5,Bajo
+San Marcos,Jalisco,9,2016,2021,6,1.5,Bajo
+Apazapan,Veracruz de Ignacio de la Llave,3,2018,2019,2,1.5,Bajo
+Gómez Farías,Chihuahua,6,2018,2021,4,1.5,Bajo
+López,Chihuahua,9,2015,2020,6,1.5,Bajo
+Santa Catarina Minas,Oaxaca,6,2018,2021,4,1.5,Bajo
+Asunción Cacalotepec,Oaxaca,3,2019,2020,2,1.5,Bajo
+Santa Inés Yatzeche,Oaxaca,3,2020,2021,2,1.5,Bajo
+Tepatlaxco,Veracruz de Ignacio de la Llave,6,2017,2020,4,1.5,Bajo
+San Sebastián del Oeste,Jalisco,9,2016,2021,6,1.5,Bajo
+Cruillas,Tamaulipas,6,2015,2018,4,1.5,Bajo
+San Simón Almolongas,Oaxaca,3,2018,2019,2,1.5,Bajo
+San Juan Teitipac,Oaxaca,3,2018,2019,2,1.5,Bajo
+Copanatoyac,Guerrero,6,2015,2018,4,1.5,Bajo
+Soledad Atzompa,Veracruz de Ignacio de la Llave,6,2016,2019,4,1.5,Bajo
+Rayón,San Luis Potosí,9,2016,2021,6,1.5,Bajo
+San Juan de los Cués,Oaxaca,3,2017,2018,2,1.5,Bajo
+Chiquilistlán,Jalisco,9,2016,2021,6,1.5,Bajo
+Santo Domingo Tomaltepec,Oaxaca,3,2018,2019,2,1.5,Bajo
+Vicente Guerrero,Puebla,9,2015,2020,6,1.5,Bajo
+Santa María Jacatepec,Oaxaca,6,2018,2021,4,1.5,Bajo
+San Miguel Amatlán,Oaxaca,3,2019,2020,2,1.5,Bajo
+Coyutla,Veracruz de Ignacio de la Llave,9,2016,2021,6,1.5,Bajo
+Tenejapa,Chiapas,9,2015,2020,6,1.5,Bajo
+Zontecomatlán de López y Fuentes,Veracruz de Ignacio de la Llave,3,2017,2018,2,1.5,Bajo
+Azoyú,Guerrero,9,2016,2021,6,1.5,Bajo
+Santa María Mixtequilla,Oaxaca,6,2018,2021,4,1.5,Bajo
+Xochihuehuetlán,Guerrero,9,2016,2021,6,1.5,Bajo
+Rincón Chamula San Pedro,Chiapas,3,2018,2019,2,1.5,Bajo
+San Juan Chilateca,Oaxaca,3,2019,2020,2,1.5,Bajo
+Atenguillo,Jalisco,6,2015,2018,4,1.5,Bajo
+Susupuato,Michoacán de Ocampo,9,2016,2021,6,1.5,Bajo
+Villa Unión,Coahuila de Zaragoza,3,2016,2017,2,1.5,Bajo
+San Martín Tilcajete,Oaxaca,3,2018,2019,2,1.5,Bajo
+Comapa,Veracruz de Ignacio de la Llave,9,2016,2021,6,1.5,Bajo
+San Ciro de Acosta,San Luis Potosí,10,2015,2021,7,1.4285714285714286,Bajo
+La Colorada,Sonora,10,2015,2021,7,1.4285714285714286,Bajo
+Amatenango del Valle,Chiapas,10,2015,2021,7,1.4285714285714286,Bajo
+Molango de Escamilla,Hidalgo,10,2015,2021,7,1.4285714285714286,Bajo
+Mina,Nuevo León,10,2015,2021,7,1.4285714285714286,Bajo
+Nuevo Ideal,Durango,10,2015,2021,7,1.4285714285714286,Bajo
+Atemajac de Brizuela,Jalisco,10,2015,2021,7,1.4285714285714286,Bajo
+San Carlos,Tamaulipas,10,2015,2021,7,1.4285714285714286,Bajo
+La Libertad,Chiapas,7,2017,2021,5,1.4,Bajo
+Jalcomulco,Veracruz de Ignacio de la Llave,7,2017,2021,5,1.4,Bajo
+Tomatlán,Veracruz de Ignacio de la Llave,7,2017,2021,5,1.4,Bajo
+Praxedis G. Guerrero,Chihuahua,7,2016,2020,5,1.4,Bajo
+Ahuacatlán,Puebla,7,2015,2019,5,1.4,Bajo
+San Dimas,Durango,7,2016,2020,5,1.4,Bajo
+San Felipe Jalapa de Díaz,Oaxaca,8,2015,2020,6,1.3333333333333333,Bajo
+Ignacio de la Llave,Veracruz de Ignacio de la Llave,8,2016,2021,6,1.3333333333333333,Bajo
+Hualahuises,Nuevo León,8,2015,2020,6,1.3333333333333333,Bajo
+Monjas,Oaxaca,4,2019,2021,3,1.3333333333333333,Bajo
+Metlatónoc,Guerrero,4,2019,2021,3,1.3333333333333333,Bajo
+Tancoco,Veracruz de Ignacio de la Llave,8,2015,2020,6,1.3333333333333333,Bajo
+Cerralvo,Nuevo León,8,2016,2021,6,1.3333333333333333,Bajo
+San Antonio Cañada,Puebla,4,2017,2019,3,1.3333333333333333,Bajo
+Totatiche,Jalisco,4,2019,2021,3,1.3333333333333333,Bajo
+Nacozari de García,Sonora,8,2015,2020,6,1.3333333333333333,Bajo
+Santa María de los Ángeles,Jalisco,4,2016,2018,3,1.3333333333333333,Bajo
+Chiconquiaco,Veracruz de Ignacio de la Llave,8,2016,2021,6,1.3333333333333333,Bajo
+Santa María Huazolotitlán,Oaxaca,4,2019,2021,3,1.3333333333333333,Bajo
+General Simón Bolívar,Durango,4,2018,2020,3,1.3333333333333333,Bajo
+Malinaltepec,Guerrero,8,2016,2021,6,1.3333333333333333,Bajo
+Chichiquila,Puebla,8,2016,2021,6,1.3333333333333333,Bajo
+Rojas de Cuauhtémoc,Oaxaca,4,2018,2020,3,1.3333333333333333,Bajo
+Santa Cruz Xitla,Oaxaca,4,2019,2021,3,1.3333333333333333,Bajo
+Santiago Apóstol,Oaxaca,4,2018,2020,3,1.3333333333333333,Bajo
+Nazas,Durango,8,2015,2020,6,1.3333333333333333,Bajo
+San Juan Bautista Coixtlahuaca,Oaxaca,4,2019,2021,3,1.3333333333333333,Bajo
+San Sebastián Ixcapa,Oaxaca,4,2019,2021,3,1.3333333333333333,Bajo
+Villa Díaz Ordaz,Oaxaca,4,2019,2021,3,1.3333333333333333,Bajo
+Fronteras,Sonora,4,2018,2020,3,1.3333333333333333,Bajo
+Zaragoza,Coahuila de Zaragoza,9,2015,2021,7,1.2857142857142858,Bajo
+Rosamorada,Nayarit,9,2015,2021,7,1.2857142857142858,Bajo
+Viesca,Coahuila de Zaragoza,9,2015,2021,7,1.2857142857142858,Bajo
+Arroyo Seco,Querétaro,9,2015,2021,7,1.2857142857142858,Bajo
+Tampamolón Corona,San Luis Potosí,9,2015,2021,7,1.2857142857142858,Bajo
+Temósachic,Chihuahua,9,2015,2021,7,1.2857142857142858,Bajo
+Moctezuma,San Luis Potosí,9,2015,2021,7,1.2857142857142858,Bajo
+Coyotepec,Puebla,9,2015,2021,7,1.2857142857142858,Bajo
+General Heliodoro Castillo,Guerrero,9,2015,2021,7,1.2857142857142858,Bajo
+Emiliano Zapata,Tlaxcala,9,2015,2021,7,1.2857142857142858,Bajo
+San Pedro Lagunillas,Nayarit,9,2015,2021,7,1.2857142857142858,Bajo
+San Simón de Guerrero,México,9,2015,2021,7,1.2857142857142858,Bajo
+Atzitzihuacán,Puebla,9,2015,2021,7,1.2857142857142858,Bajo
+Quitupan,Jalisco,5,2015,2018,4,1.25,Bajo
+San Pedro Huamelula,Oaxaca,5,2018,2021,4,1.25,Bajo
+Teotlalco,Puebla,5,2016,2019,4,1.25,Bajo
+Santiago Llano Grande,Oaxaca,5,2018,2021,4,1.25,Bajo
+Coatzingo,Puebla,5,2018,2021,4,1.25,Bajo
+San Lucas Tecopilco,Tlaxcala,5,2018,2021,4,1.25,Bajo
+Carbó,Sonora,5,2016,2019,4,1.25,Bajo
+Ahuehuetitla,Puebla,5,2018,2021,4,1.25,Bajo
+San Mateo del Mar,Oaxaca,5,2018,2021,4,1.25,Bajo
+Tianguistengo,Hidalgo,5,2018,2021,4,1.25,Bajo
+Aconchi,Sonora,6,2015,2019,5,1.2,Bajo
+Mixtlán,Jalisco,6,2015,2019,5,1.2,Bajo
+Villaldama,Nuevo León,6,2017,2021,5,1.2,Bajo
+Pantelhó,Chiapas,6,2017,2021,5,1.2,Bajo
+Zapotitlán Tablas,Guerrero,6,2015,2019,5,1.2,Bajo
+San Sebastián Tlacotepec,Puebla,6,2017,2021,5,1.2,Bajo
+Acteopan,Puebla,6,2017,2021,5,1.2,Bajo
+Trincheras,Sonora,6,2015,2019,5,1.2,Bajo
+Benito Juárez,Veracruz de Ignacio de la Llave,6,2017,2021,5,1.2,Bajo
+Nuevo Morelos,Tamaulipas,6,2016,2020,5,1.2,Bajo
+Teopantlán,Puebla,6,2017,2021,5,1.2,Bajo
+San Pedro Ixcatlán,Oaxaca,6,2017,2021,5,1.2,Bajo
+Juchique de Ferrer,Veracruz de Ignacio de la Llave,7,2015,2020,6,1.1666666666666667,Bajo
+Coahuayutla de José María Izazaga,Guerrero,7,2015,2020,6,1.1666666666666667,Bajo
+Valle de Juárez,Jalisco,7,2015,2020,6,1.1666666666666667,Bajo
+San Juan Bautista Valle Nacional,Oaxaca,7,2016,2021,6,1.1666666666666667,Bajo
+Galeana,Chihuahua,7,2015,2020,6,1.1666666666666667,Bajo
+Cucurpe,Sonora,8,2015,2021,7,1.1428571428571428,Bajo
+San Cristóbal de la Barranca,Jalisco,8,2015,2021,7,1.1428571428571428,Bajo
+Baviácora,Sonora,8,2015,2021,7,1.1428571428571428,Bajo
+Zaragoza,Veracruz de Ignacio de la Llave,8,2015,2021,7,1.1428571428571428,Bajo
+Casas,Tamaulipas,8,2015,2021,7,1.1428571428571428,Bajo
+Gran Morelos,Chihuahua,8,2015,2021,7,1.1428571428571428,Bajo
+Zináparo,Michoacán de Ocampo,8,2015,2021,7,1.1428571428571428,Bajo
+Santa María de la Paz,Zacatecas,8,2015,2021,7,1.1428571428571428,Bajo
+Tantima,Veracruz de Ignacio de la Llave,8,2015,2021,7,1.1428571428571428,Bajo
+Tancanhuitz,San Luis Potosí,8,2015,2021,7,1.1428571428571428,Bajo
+Guadalupe,Chihuahua,8,2015,2021,7,1.1428571428571428,Bajo
+Yogana,Oaxaca,1,2019,2019,1,1.0,Bajo
+Totolapa,Chiapas,1,2020,2020,1,1.0,Bajo
+Xicotlán,Puebla,3,2018,2020,3,1.0,Bajo
+Francisco León,Chiapas,1,2015,2015,1,1.0,Bajo
+Acula,Veracruz de Ignacio de la Llave,2,2015,2016,2,1.0,Bajo
+Tepetlán,Veracruz de Ignacio de la Llave,4,2018,2021,4,1.0,Bajo
+Xoxocotla,Veracruz de Ignacio de la Llave,1,2017,2017,1,1.0,Bajo
+Aldama,Chiapas,1,2017,2017,1,1.0,Bajo
+Zoquitlán,Puebla,4,2015,2018,4,1.0,Bajo
+Concepción Pápalo,Oaxaca,1,2018,2018,1,1.0,Bajo
+Albino Zertuche,Puebla,1,2017,2017,1,1.0,Bajo
+Alaquines,San Luis Potosí,1,2015,2015,1,1.0,Bajo
+Xochistlahuaca,Guerrero,1,2021,2021,1,1.0,Bajo
+Xochiapulco,Puebla,1,2016,2016,1,1.0,Bajo
+Tzucacab,Yucatán,1,2020,2020,1,1.0,Bajo
+Homún,Yucatán,1,2021,2021,1,1.0,Bajo
+Tuxcacuesco,Jalisco,4,2018,2021,4,1.0,Bajo
+Del Nayar,Nayarit,1,2017,2017,1,1.0,Bajo
+Zihuateutla,Puebla,4,2018,2021,4,1.0,Bajo
+Villa Tejúpam de la Unión,Oaxaca,2,2017,2018,2,1.0,Bajo
+Topia,Durango,1,2021,2021,1,1.0,Bajo
+Cuautepec,Guerrero,3,2017,2019,3,1.0,Bajo
+Zapotitlán de Vadillo,Jalisco,7,2015,2021,7,1.0,Bajo
+Coatepec,Puebla,1,2019,2019,1,1.0,Bajo
+Hermenegildo Galeana,Puebla,1,2015,2015,1,1.0,Bajo
+El Salvador,Zacatecas,2,2019,2020,2,1.0,Bajo
+Tlacoapa,Guerrero,2,2018,2019,2,1.0,Bajo
+Guadalupe de Ramírez,Oaxaca,1,2021,2021,1,1.0,Bajo
+Guazapares,Chihuahua,2,2015,2016,2,1.0,Bajo
+Zapotitlán Lagunas,Oaxaca,1,2017,2017,1,1.0,Bajo
+Coxquihui,Veracruz de Ignacio de la Llave,6,2016,2021,6,1.0,Bajo
+Texcatepec,Veracruz de Ignacio de la Llave,1,2019,2019,1,1.0,Bajo
+Guerrero,Coahuila de Zaragoza,1,2017,2017,1,1.0,Bajo
+Guerrero,Tamaulipas,7,2015,2021,7,1.0,Bajo
+Texhuacán,Veracruz de Ignacio de la Llave,1,2018,2018,1,1.0,Bajo
+Cuautempan,Puebla,1,2021,2021,1,1.0,Bajo
+Tlalchapa,Guerrero,2,2015,2016,2,1.0,Bajo
+El Tule,Chihuahua,1,2018,2018,1,1.0,Bajo
+Cohuecan,Puebla,4,2018,2021,4,1.0,Bajo
+Coatecas Altas,Oaxaca,1,2018,2018,1,1.0,Bajo
+Zacapala,Puebla,2,2017,2018,2,1.0,Bajo
+Hidalgo,Durango,1,2016,2016,1,1.0,Bajo
+Hidalgo,Coahuila de Zaragoza,1,2018,2018,1,1.0,Bajo
+Zitlala,Guerrero,6,2015,2020,6,1.0,Bajo
+"Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca",Oaxaca,4,2018,2021,4,1.0,Bajo
+Coetzala,Veracruz de Ignacio de la Llave,7,2015,2021,7,1.0,Bajo
+Coronado,Chihuahua,4,2017,2020,4,1.0,Bajo
+Zacualpan,Veracruz de Ignacio de la Llave,1,2019,2019,1,1.0,Bajo
+Xichú,Guanajuato,2,2015,2016,2,1.0,Bajo
+Emiliano Zapata,Chiapas,1,2021,2021,1,1.0,Bajo
+Eloxochitlán de Flores Magón,Oaxaca,1,2017,2017,1,1.0,Bajo
+Cuayuca de Andrade,Puebla,1,2017,2017,1,1.0,Bajo
+Constancia del Rosario,Oaxaca,1,2018,2018,1,1.0,Bajo
+Tlaxco,Puebla,1,2019,2019,1,1.0,Bajo
+Valerio Trujano,Oaxaca,1,2018,2018,1,1.0,Bajo
+Ixpantepec Nieves,Oaxaca,1,2019,2019,1,1.0,Bajo
+Amixtlán,Puebla,2,2018,2019,2,1.0,Bajo
+San Pablo Macuiltianguis,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Pedro Tidaá,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Pedro Mártir Yucuxaco,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Pedro Mártir,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Pedro Mixtepec Distrito 26,Oaxaca,1,2021,2021,1,1.0,Bajo
+Rosario,Sonora,7,2015,2021,7,1.0,Bajo
+Río Lagartos,Yucatán,1,2020,2020,1,1.0,Bajo
+Julimes,Chihuahua,7,2015,2021,7,1.0,Bajo
+San Agustín Amatengo,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Pedro Comitancillo,Oaxaca,4,2018,2021,4,1.0,Bajo
+San Agustín Atenango,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Pablo Coatlán,Oaxaca,1,2020,2020,1,1.0,Bajo
+Atengo,Jalisco,3,2017,2019,3,1.0,Bajo
+San Pablo Anicano,Puebla,1,2021,2021,1,1.0,Bajo
+Atlamajalcingo del Monte,Guerrero,1,2016,2016,1,1.0,Bajo
+San Nicolás Tolentino,San Luis Potosí,7,2015,2021,7,1.0,Bajo
+San Nicolás,Tamaulipas,1,2018,2018,1,1.0,Bajo
+San Agustín Loxicha,Oaxaca,1,2017,2017,1,1.0,Bajo
+San Miguel del Puerto,Oaxaca,2,2019,2020,2,1.0,Bajo
+San Miguel Tilquiápam,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Miguel Tenango,Oaxaca,1,2018,2018,1,1.0,Bajo
+Juan N. Méndez,Puebla,4,2017,2020,4,1.0,Bajo
+San Andrés Dinicuiti,Oaxaca,1,2018,2018,1,1.0,Bajo
+Riva Palacio,Chihuahua,7,2015,2021,7,1.0,Bajo
+San Pedro Topiltepec,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Miguel Ejutla,Oaxaca,1,2019,2019,1,1.0,Bajo
+Santa Ana del Valle,Oaxaca,1,2020,2020,1,1.0,Bajo
+Santa Cruz,Sonora,1,2020,2020,1,1.0,Bajo
+Santa Catarina Yosonotú,Oaxaca,2,2019,2020,2,1.0,Bajo
+Santa Catarina Quiané,Oaxaca,4,2018,2021,4,1.0,Bajo
+Santa Catarina Mechoacán,Oaxaca,1,2019,2019,1,1.0,Bajo
+Santa Catarina Lachatao,Oaxaca,1,2018,2018,1,1.0,Bajo
+Santa Catarina Ixtepeji,Oaxaca,1,2020,2020,1,1.0,Bajo
+La Trinidad Vista Hermosa,Oaxaca,1,2021,2021,1,1.0,Bajo
+Chichimilá,Yucatán,1,2021,2021,1,1.0,Bajo
+La Magdalena Tlatlauquitepec,Puebla,1,2018,2018,1,1.0,Bajo
+Bejucal de Ocampo,Chiapas,1,2016,2016,1,1.0,Bajo
+Batopilas de Manuel Gómez Morín,Chihuahua,1,2018,2018,1,1.0,Bajo
+Bacanora,Sonora,1,2015,2015,1,1.0,Bajo
+Chocholá,Yucatán,1,2021,2021,1,1.0,Bajo
+San Vicente Coatlán,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Sebastián Teitipac,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Sebastián Río Hondo,Oaxaca,1,2018,2018,1,1.0,Bajo
+Quechultenango,Guerrero,3,2019,2021,3,1.0,Bajo
+San Sebastián Abasolo,Oaxaca,1,2020,2020,1,1.0,Bajo
+Ixtapangajoya,Chiapas,7,2015,2021,7,1.0,Bajo
+Chiconcuautla,Puebla,6,2016,2021,6,1.0,Bajo
+San Pedro y San Pablo Tequixtepec,Oaxaca,1,2019,2019,1,1.0,Bajo
+Reforma de Pineda,Oaxaca,2,2019,2020,2,1.0,Bajo
+San Miguel Panixtlahuaca,Oaxaca,1,2019,2019,1,1.0,Bajo
+José Joaquín de Herrera,Guerrero,1,2020,2020,1,1.0,Bajo
+Santa Cruz Papalutla,Oaxaca,2,2017,2018,2,1.0,Bajo
+Chila de la Sal,Puebla,1,2017,2017,1,1.0,Bajo
+Chigmecatitlán,Puebla,1,2016,2016,1,1.0,Bajo
+San Juan Lalana,Oaxaca,4,2018,2021,4,1.0,Bajo
+San Diego la Mesa Tochimiltzingo,Puebla,1,2021,2021,1,1.0,Bajo
+San Dionisio Ocotlán,Oaxaca,2,2017,2018,2,1.0,Bajo
+San Juan Cancuc,Chiapas,2,2017,2018,2,1.0,Bajo
+San Esteban Atatlahuca,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Juan Bautista Lo de Soto,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Juan Atzompa,Puebla,1,2015,2015,1,1.0,Bajo
+Chila,Puebla,7,2015,2021,7,1.0,Bajo
+San José Tenango,Oaxaca,2,2018,2019,2,1.0,Bajo
+San José Chiltepec,Oaxaca,4,2018,2021,4,1.0,Bajo
+San Juan Teposcolula,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Felipe de Jesús,Sonora,2,2016,2017,2,1.0,Bajo
+San Jorge Nuchita,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Francisco Sola,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Jerónimo Tecóatl,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Jerónimo Taviche,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Jerónimo Coatlán,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Javier,Sonora,2,2017,2018,2,1.0,Bajo
+San Ildefonso Villa Alta,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Ildefonso Amatlán,Oaxaca,1,2018,2018,1,1.0,Bajo
+Jiménez,Coahuila de Zaragoza,1,2015,2015,1,1.0,Bajo
+San Juan Sayultepec,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Juan Yaeé,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Miguel Amatitlán,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Bartolo Soyaltepec,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Mateo Etlatongo,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Andrés Ixtlahuaca,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Andrés Zabache,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Martín de Bolaños,Jalisco,2,2017,2018,2,1.0,Bajo
+San Antonio Huitepec,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Martín Totoltepec,Puebla,1,2019,2019,1,1.0,Bajo
+San Baltazar Loxicha,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Martín Peras,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Martín Lachilá,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Martín Itunyoso,Oaxaca,2,2020,2021,2,1.0,Bajo
+San Martín Huamelúlpam,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Juan Yucuita,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Bartolo Yautepec,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Bartolomé Quialana,Oaxaca,2,2019,2020,2,1.0,Bajo
+San Bartolomé Yucuañe,Oaxaca,1,2019,2019,1,1.0,Bajo
+San Lucas,Chiapas,1,2021,2021,1,1.0,Bajo
+San Lorenzo Texmelúcan,Oaxaca,1,2020,2020,1,1.0,Bajo
+San Lorenzo Albarradas,Oaxaca,1,2018,2018,1,1.0,Bajo
+San Cristóbal Suchixtlahuaca,Oaxaca,3,2017,2019,3,1.0,Bajo
+San Juan Ñumí,Oaxaca,1,2019,2019,1,1.0,Bajo
+Jaltocán,Hidalgo,2,2018,2019,2,1.0,Bajo
+San Juan del Estado,Oaxaca,2,2018,2019,2,1.0,Bajo
+Santa Cruz Itundujia,Oaxaca,2,2018,2019,2,1.0,Bajo
+Santa Cruz Mixtepec,Oaxaca,3,2019,2021,3,1.0,Bajo
+Ocotepec,Chiapas,1,2018,2018,1,1.0,Bajo
+Magdalena Teitipac,Oaxaca,1,2020,2020,1,1.0,Bajo
+Manuel Benavides,Chihuahua,1,2018,2018,1,1.0,Bajo
+Huépac,Sonora,1,2016,2016,1,1.0,Bajo
+Súchil,Durango,6,2016,2021,6,1.0,Bajo
+No Especificado,Sonora,1,2016,2016,1,1.0,Bajo
+Sunuapa,Chiapas,2,2015,2016,2,1.0,Bajo
+Mainero,Tamaulipas,1,2017,2017,1,1.0,Bajo
+Nonoava,Chihuahua,1,2017,2017,1,1.0,Bajo
+Sitio de Xitlapehua,Oaxaca,1,2019,2019,1,1.0,Bajo
+Magdalena Tlacotepec,Oaxaca,1,2018,2018,1,1.0,Bajo
+Astacinga,Veracruz de Ignacio de la Llave,3,2017,2019,3,1.0,Bajo
+Magdalena Peñasco,Oaxaca,1,2020,2020,1,1.0,Bajo
+Magdalena Jaltepec,Oaxaca,4,2018,2021,4,1.0,Bajo
+Santo Tomás Mazaltepec,Oaxaca,1,2020,2020,1,1.0,Bajo
+Santo Tomás Jalieza,Oaxaca,1,2018,2018,1,1.0,Bajo
+Ocampo,Coahuila de Zaragoza,1,2018,2018,1,1.0,Bajo
+Santo Domingo Tonalá,Oaxaca,4,2018,2021,4,1.0,Bajo
+Santo Domingo Tlatayápam,Oaxaca,1,2019,2019,1,1.0,Bajo
+Asunción Cuyotepeji,Oaxaca,1,2020,2020,1,1.0,Bajo
+Santo Domingo Nuxaá,Oaxaca,1,2018,2018,1,1.0,Bajo
+Santo Domingo Ingenio,Oaxaca,1,2020,2020,1,1.0,Bajo
+Santo Domingo Chihuitán,Oaxaca,2,2018,2019,2,1.0,Bajo
+Santo Domingo Albarradas,Oaxaca,1,2018,2018,1,1.0,Bajo
+Huitzilan de Serdán,Puebla,1,2021,2021,1,1.0,Bajo
+Huitiupán,Chiapas,1,2019,2019,1,1.0,Bajo
+Arivechi,Sonora,1,2015,2015,1,1.0,Bajo
+Tatatila,Veracruz de Ignacio de la Llave,1,2021,2021,1,1.0,Bajo
+Huachinera,Sonora,2,2019,2020,2,1.0,Bajo
+Teotongo,Oaxaca,1,2019,2019,1,1.0,Bajo
+Teotitlán del Valle,Oaxaca,1,2018,2018,1,1.0,Bajo
+Mazatlán Villa de Flores,Oaxaca,1,2019,2019,1,1.0,Bajo
+Antiguo Morelos,Tamaulipas,6,2015,2020,6,1.0,Bajo
+Apaxtla,Guerrero,1,2016,2016,1,1.0,Bajo
+Chalchihuitán,Chiapas,1,2018,2018,1,1.0,Bajo
+Tenampa,Veracruz de Ignacio de la Llave,1,2021,2021,1,1.0,Bajo
+Temax,Yucatán,1,2021,2021,1,1.0,Bajo
+Mezquitic,Jalisco,7,2015,2021,7,1.0,Bajo
+Mier y Noriega,Nuevo León,1,2018,2018,1,1.0,Bajo
+Mitontic,Chiapas,1,2020,2020,1,1.0,Bajo
+Mixtla de Altamirano,Veracruz de Ignacio de la Llave,3,2019,2021,3,1.0,Bajo
+Tekantó,Yucatán,1,2020,2020,1,1.0,Bajo
+Huehuetla,Puebla,1,2015,2015,1,1.0,Bajo
+Tehuipango,Veracruz de Ignacio de la Llave,1,2017,2017,1,1.0,Bajo
+Matachí,Chihuahua,1,2017,2017,1,1.0,Bajo
+Huehuetlán,San Luis Potosí,2,2020,2021,2,1.0,Bajo
+Huejotitán,Chihuahua,1,2018,2018,1,1.0,Bajo
+Moris,Chihuahua,1,2015,2015,1,1.0,Bajo
+Chanal,Chiapas,4,2016,2019,4,1.0,Bajo
+Santa Cruz Tacache de Mina,Oaxaca,1,2021,2021,1,1.0,Bajo
+San Gabriel Mixtepec,Oaxaca,4,2018,2021,4,1.0,Bajo
+Chumatlán,Veracruz de Ignacio de la Llave,1,2018,2018,1,1.0,Bajo
+Santa María Guelacé,Oaxaca,1,2018,2018,1,1.0,Bajo
+Santiago Ihuitlán Plumas,Oaxaca,1,2021,2021,1,1.0,Bajo
+Santa Lucía Monteverde,Oaxaca,1,2017,2017,1,1.0,Bajo
+Pihuamo,Jalisco,7,2015,2021,7,1.0,Bajo
+Progreso,Coahuila de Zaragoza,1,2020,2020,1,1.0,Bajo
+Santiago Comaltepec,Oaxaca,1,2021,2021,1,1.0,Bajo
+Santa María Alotepec,Oaxaca,1,2018,2018,1,1.0,Bajo
+Santiago Camotlán,Oaxaca,1,2019,2019,1,1.0,Bajo
+Benito Juárez,Zacatecas,7,2015,2021,7,1.0,Bajo
+Santiago Cacaloxtepec,Oaxaca,3,2019,2021,3,1.0,Bajo
+Pinotepa de Don Luis,Oaxaca,1,2020,2020,1,1.0,Bajo
+Ixil,Yucatán,1,2018,2018,1,1.0,Bajo
+Santiago Ayuquililla,Oaxaca,2,2018,2019,2,1.0,Bajo
+Pisaflores,Hidalgo,2,2017,2018,2,1.0,Bajo
+Santa María Zacatepec,Oaxaca,3,2019,2021,3,1.0,Bajo
+Santa María Yolotepec,Oaxaca,1,2018,2018,1,1.0,Bajo
+Santa María Tlahuitoltepec,Oaxaca,1,2020,2020,1,1.0,Bajo
+Santa María Teopoxco,Oaxaca,1,2020,2020,1,1.0,Bajo
+Pluma Hidalgo,Oaxaca,1,2018,2018,1,1.0,Bajo
+Ixhuatán,Chiapas,5,2016,2020,5,1.0,Bajo
+Peto,Yucatán,1,2018,2018,1,1.0,Bajo
+Santa Inés Ahuatempan,Puebla,1,2021,2021,1,1.0,Bajo
+Bolaños,Jalisco,2,2015,2016,2,1.0,Bajo
+Santiago Tilantongo,Oaxaca,1,2021,2021,1,1.0,Bajo
+Chapultenango,Chiapas,1,2018,2018,1,1.0,Bajo
+Calihualá,Oaxaca,1,2019,2019,1,1.0,Bajo
+Osumacinta,Chiapas,1,2018,2018,1,1.0,Bajo
+Santiago Yolomécatl,Oaxaca,4,2018,2021,4,1.0,Bajo
+Santiago Yaveo,Oaxaca,1,2018,2018,1,1.0,Bajo
+Santiago Yaitepec,Oaxaca,2,2018,2019,2,1.0,Bajo
+Los Reyes,Veracruz de Ignacio de la Llave,5,2016,2020,5,1.0,Bajo
+Asunción Tlacolulita,Oaxaca,1,2019,2019,1,1.0,Bajo
+Los Herreras,Nuevo León,1,2021,2021,1,1.0,Bajo
+Pedro Ascencio Alquisiras,Guerrero,4,2015,2018,4,1.0,Bajo
+Iturbide,Nuevo León,1,2021,2021,1,1.0,Bajo
+Santiago Nundiche,Oaxaca,1,2020,2020,1,1.0,Bajo
+Lolotla,Hidalgo,4,2015,2018,4,1.0,Bajo
+Santa Cruz Zenzontepec,Oaxaca,1,2020,2020,1,1.0,Bajo
+Pantepec,Chiapas,1,2020,2020,1,1.0,Bajo
+Burgos,Tamaulipas,1,2021,2021,1,1.0,Bajo
+Chemax,Yucatán,1,2021,2021,1,1.0,Bajo
+Santiago Laollaga,Oaxaca,4,2018,2021,4,1.0,Bajo
+Santa María Guienagati,Oaxaca,1,2019,2019,1,1.0,Bajo
+El Porvenir,Chiapas,6,2015,2021,7,0.8571428571428571,Bajo
+Tonaya,Jalisco,6,2015,2021,7,0.8571428571428571,Bajo
+Ixtepec,Puebla,6,2015,2021,7,0.8571428571428571,Bajo
+Tamasopo,San Luis Potosí,6,2015,2021,7,0.8571428571428571,Bajo
+Cusihuiriachi,Chihuahua,6,2015,2021,7,0.8571428571428571,Bajo
+Siltepec,Chiapas,6,2015,2021,7,0.8571428571428571,Bajo
+Calcahualco,Veracruz de Ignacio de la Llave,6,2015,2021,7,0.8571428571428571,Bajo
+Naco,Sonora,5,2015,2020,6,0.8333333333333334,Bajo
+Cuautla,Jalisco,5,2015,2020,6,0.8333333333333334,Bajo
+Acatepec,Guerrero,5,2015,2020,6,0.8333333333333334,Bajo
+Mazatán,Sonora,5,2015,2020,6,0.8333333333333334,Bajo
+Guadalupe,Puebla,5,2015,2020,6,0.8333333333333334,Bajo
+Tonila,Jalisco,5,2016,2021,6,0.8333333333333334,Bajo
+Sochiapa,Veracruz de Ignacio de la Llave,5,2015,2020,6,0.8333333333333334,Bajo
+San Pedro de la Cueva,Sonora,5,2015,2020,6,0.8333333333333334,Bajo
+Vallecillo,Nuevo León,5,2016,2021,6,0.8333333333333334,Bajo
+Tenampulco,Puebla,5,2016,2021,6,0.8333333333333334,Bajo
+Bella Vista,Chiapas,4,2015,2019,5,0.8,Bajo
+La Cruz,Chihuahua,4,2015,2019,5,0.8,Bajo
+Ixcateopan de Cuauhtémoc,Guerrero,4,2015,2019,5,0.8,Bajo
+Tapalapa,Chiapas,4,2017,2021,5,0.8,Bajo
+Alpatláhuac,Veracruz de Ignacio de la Llave,4,2017,2021,5,0.8,Bajo
+San Jerónimo Xayacatlán,Puebla,4,2017,2021,5,0.8,Bajo
+Maguarichi,Chihuahua,4,2015,2019,5,0.8,Bajo
+Carichí,Chihuahua,4,2015,2019,5,0.8,Bajo
+Tamalín,Veracruz de Ignacio de la Llave,4,2017,2021,5,0.8,Bajo
+San Antonio,San Luis Potosí,4,2017,2021,5,0.8,Bajo
+Nadadores,Coahuila de Zaragoza,4,2015,2019,5,0.8,Bajo
+Chimaltitán,Jalisco,4,2017,2021,5,0.8,Bajo
+Ixcatepec,Veracruz de Ignacio de la Llave,4,2015,2019,5,0.8,Bajo
+Aquixtla,Puebla,4,2017,2021,5,0.8,Bajo
+Aramberri,Nuevo León,4,2017,2021,5,0.8,Bajo
+Mártir de Cuilapan,Guerrero,3,2017,2020,4,0.75,Bajo
+Sitalá,Chiapas,3,2017,2020,4,0.75,Bajo
+Acatlán,Veracruz de Ignacio de la Llave,3,2018,2021,4,0.75,Bajo
+Dr. Belisario Domínguez,Chihuahua,3,2016,2019,4,0.75,Bajo
+Santiago Miltepec,Oaxaca,3,2018,2021,4,0.75,Bajo
+Santos Reyes Nopala,Oaxaca,3,2018,2021,4,0.75,Bajo
+Xayacatlán de Bravo,Puebla,3,2017,2020,4,0.75,Bajo
+San Juan Juquila Mixes,Oaxaca,3,2018,2021,4,0.75,Bajo
+Tuzamapan de Galeana,Puebla,3,2018,2021,4,0.75,Bajo
+San Juan Mixtepec Distrito 26,Oaxaca,3,2018,2021,4,0.75,Bajo
+Miahuatlán,Veracruz de Ignacio de la Llave,3,2017,2020,4,0.75,Bajo
+Apulco,Zacatecas,3,2015,2018,4,0.75,Bajo
+Santiago Niltepec,Oaxaca,3,2018,2021,4,0.75,Bajo
+Chinicuila,Michoacán de Ocampo,5,2015,2021,7,0.7142857142857143,Bajo
+Opodepe,Sonora,5,2015,2021,7,0.7142857142857143,Bajo
+San Pedro Yeloixtlahuaca,Puebla,5,2015,2021,7,0.7142857142857143,Bajo
+Tlacoachistlahuaca,Guerrero,5,2015,2021,7,0.7142857142857143,Bajo
+Santo Domingo,San Luis Potosí,5,2015,2021,7,0.7142857142857143,Bajo
+Tolimán,Jalisco,5,2015,2021,7,0.7142857142857143,Bajo
+Colipa,Veracruz de Ignacio de la Llave,5,2015,2021,7,0.7142857142857143,Bajo
+Urique,Chihuahua,5,2015,2021,7,0.7142857142857143,Bajo
+Atzala,Puebla,5,2015,2021,7,0.7142857142857143,Bajo
+Chucándiro,Michoacán de Ocampo,5,2015,2021,7,0.7142857142857143,Bajo
+Tlacotepec de Mejía,Veracruz de Ignacio de la Llave,4,2016,2021,6,0.6666666666666666,Bajo
+Cumpas,Sonora,4,2016,2021,6,0.6666666666666666,Bajo
+Tepetzintla,Puebla,2,2016,2018,3,0.6666666666666666,Bajo
+Santiago Jocotepec,Oaxaca,2,2018,2020,3,0.6666666666666666,Bajo
+Bustamante,Nuevo León,4,2016,2021,6,0.6666666666666666,Bajo
+Mezquital del Oro,Zacatecas,4,2016,2021,6,0.6666666666666666,Bajo
+Santiago Tenango,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+Santiago Yosondúa,Oaxaca,2,2018,2020,3,0.6666666666666666,Bajo
+Huatlatlauca,Puebla,2,2017,2019,3,0.6666666666666666,Bajo
+Guanaceví,Durango,4,2016,2021,6,0.6666666666666666,Bajo
+Aporo,Michoacán de Ocampo,4,2016,2021,6,0.6666666666666666,Bajo
+Caltepec,Puebla,4,2016,2021,6,0.6666666666666666,Bajo
+Santiago el Pinar,Chiapas,2,2015,2017,3,0.6666666666666666,Bajo
+Nácori Chico,Sonora,2,2019,2021,3,0.6666666666666666,Bajo
+Zapotitlán de Méndez,Puebla,2,2018,2020,3,0.6666666666666666,Bajo
+Mazapa de Madero,Chiapas,4,2015,2020,6,0.6666666666666666,Bajo
+Huautla,Hidalgo,4,2016,2021,6,0.6666666666666666,Bajo
+Tampacán,San Luis Potosí,2,2019,2021,3,0.6666666666666666,Bajo
+Silacayoápam,Oaxaca,2,2017,2019,3,0.6666666666666666,Bajo
+San Francisco de Conchos,Chihuahua,2,2015,2017,3,0.6666666666666666,Bajo
+General Canuto A. Neri,Guerrero,2,2015,2017,3,0.6666666666666666,Bajo
+Jonotla,Puebla,2,2019,2021,3,0.6666666666666666,Bajo
+San Pedro Huilotepec,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+Tepango de Rodríguez,Puebla,2,2019,2021,3,0.6666666666666666,Bajo
+San José del Progreso,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+Santa Ana Tlapacoyan,Oaxaca,2,2018,2020,3,0.6666666666666666,Bajo
+Trinidad Zaachila,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+San Felipe Usila,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+Atlahuilco,Veracruz de Ignacio de la Llave,2,2017,2019,3,0.6666666666666666,Bajo
+Xochicoatlán,Hidalgo,2,2016,2018,3,0.6666666666666666,Bajo
+Bachíniva,Chihuahua,4,2015,2020,6,0.6666666666666666,Bajo
+El Bosque,Chiapas,4,2015,2020,6,0.6666666666666666,Bajo
+San Miguel Suchixtepec,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+Santa María la Asunción,Oaxaca,2,2018,2020,3,0.6666666666666666,Bajo
+San Andrés Tenejapan,Veracruz de Ignacio de la Llave,2,2016,2018,3,0.6666666666666666,Bajo
+San Martín de los Cansecos,Oaxaca,2,2018,2020,3,0.6666666666666666,Bajo
+San Martín Toxpalan,Oaxaca,2,2019,2021,3,0.6666666666666666,Bajo
+Chiapilla,Chiapas,3,2017,2021,5,0.6,Bajo
+Agualeguas,Nuevo León,3,2017,2021,5,0.6,Bajo
+Villagrán,Tamaulipas,3,2015,2019,5,0.6,Bajo
+Indé,Durango,3,2017,2021,5,0.6,Bajo
+Tuxtilla,Veracruz de Ignacio de la Llave,3,2016,2020,5,0.6,Bajo
+Susticacán,Zacatecas,3,2017,2021,5,0.6,Bajo
+Tlalixtaquilla de Maldonado,Guerrero,3,2016,2020,5,0.6,Bajo
+Maravilla Tenejapa,Chiapas,3,2015,2019,5,0.6,Bajo
+Tlacuilotepec,Puebla,3,2017,2021,5,0.6,Bajo
+Mexticacán,Jalisco,3,2016,2020,5,0.6,Bajo
+Jiménez del Teul,Zacatecas,3,2015,2019,5,0.6,Bajo
+Cochoapa el Grande,Guerrero,3,2015,2019,5,0.6,Bajo
+Lampazos de Naranjo,Nuevo León,3,2016,2020,5,0.6,Bajo
+General Treviño,Nuevo León,3,2017,2021,5,0.6,Bajo
+Tlapacoya,Puebla,3,2017,2021,5,0.6,Bajo
+Chontla,Veracruz de Ignacio de la Llave,3,2017,2021,5,0.6,Bajo
+Xochitlán de Vicente Suárez,Puebla,4,2015,2021,7,0.5714285714285714,Bajo
+Chenalhó,Chiapas,4,2015,2021,7,0.5714285714285714,Bajo
+Onavas,Sonora,4,2015,2021,7,0.5714285714285714,Bajo
+Eloxochitlán,Puebla,4,2015,2021,7,0.5714285714285714,Bajo
+Ahuatlán,Puebla,4,2015,2021,7,0.5714285714285714,Bajo
+Jopala,Puebla,4,2015,2021,7,0.5714285714285714,Bajo
+Villa Guerrero,Jalisco,2,2016,2019,4,0.5,Bajo
+Mochitlán,Guerrero,2,2016,2019,4,0.5,Bajo
+Coyomeapan,Puebla,3,2015,2020,6,0.5,Bajo
+Zoquiapan,Puebla,2,2015,2018,4,0.5,Bajo
+Unión Juárez,Chiapas,2,2015,2018,4,0.5,Bajo
+Marqués de Comillas,Chiapas,2,2016,2019,4,0.5,Bajo
+San Luis Amatlán,Oaxaca,2,2018,2021,4,0.5,Bajo
+Morelos,Chihuahua,3,2016,2021,6,0.5,Bajo
+Chalcatongo de Hidalgo,Oaxaca,2,2018,2021,4,0.5,Bajo
+Amatán,Chiapas,3,2016,2021,6,0.5,Bajo
+San Miguel el Grande,Oaxaca,2,2018,2021,4,0.5,Bajo
+San Lucas Quiaviní,Oaxaca,2,2018,2021,4,0.5,Bajo
+Calnali,Hidalgo,2,2018,2021,4,0.5,Bajo
+Cosoltepec,Oaxaca,2,2018,2021,4,0.5,Bajo
+Bustamante,Tamaulipas,2,2018,2021,4,0.5,Bajo
+San Sebastián Nicananduta,Oaxaca,2,2017,2020,4,0.5,Bajo
+Canelas,Durango,3,2016,2021,6,0.5,Bajo
+Yahualica,Hidalgo,2,2018,2021,4,0.5,Bajo
+Totoltepec de Guerrero,Puebla,2,2018,2021,4,0.5,Bajo
+Abasolo,Nuevo León,2,2018,2021,4,0.5,Bajo
+Tixkokob,Yucatán,2,2017,2020,4,0.5,Bajo
+Magdalena,Veracruz de Ignacio de la Llave,3,2016,2021,6,0.5,Bajo
+Ayotzintepec,Oaxaca,2,2018,2021,4,0.5,Bajo
+Tubutama,Sonora,3,2015,2020,6,0.5,Bajo
+Peñón Blanco,Durango,3,2015,2020,6,0.5,Bajo
+Rayón,Sonora,3,2015,2021,7,0.42857142857142855,Bajo
+Chalchihuites,Zacatecas,3,2015,2021,7,0.42857142857142855,Bajo
+Iliatenco,Guerrero,3,2015,2021,7,0.42857142857142855,Bajo
+Caxhuacan,Puebla,2,2016,2020,5,0.4,Bajo
+San Felipe Tepatlán,Puebla,2,2017,2021,5,0.4,Bajo
+Otzoloapan,México,2,2015,2019,5,0.4,Bajo
+Santa Catarina,San Luis Potosí,2,2015,2019,5,0.4,Bajo
+Escobedo,Coahuila de Zaragoza,2,2015,2020,6,0.3333333333333333,Bajo
+Atarjea,Guanajuato,2,2015,2021,7,0.2857142857142857,Bajo
+Villa Pesqueira,Sonora,2,2015,2021,7,0.2857142857142857,Bajo
